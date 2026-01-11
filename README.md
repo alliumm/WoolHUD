@@ -4,7 +4,9 @@
 
 A replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
 
-<a href="https://github.com/Beventar/WoolHUD/archive/refs/heads/main.zip">Download</a> | <a href="https://github.com/Beventar/WoolHUD/wiki/Screenshots">Screenshots</a> | <a href="https://comfig.app/huds/page/woolhud/">comfig huds</a>
+[![Download](https://img.shields.io/badge/-Download-1B2838?logo=github&logoColor=white)](https://github.com/Beventar/WoolHUD/archive/refs/heads/main.zip)
+[![Screenshots](https://img.shields.io/badge/-Screenshots-blue?logo=imgur&logoColor=white)](https://github.com/Beventar/WoolHUD/wiki/Screenshots)
+[![comfig huds](https://img.shields.io/badge/-comfig%20huds-009688)](https://comfig.app/huds/page/woolhud)
 
 </div>
 
@@ -59,7 +61,5 @@ For the best possible experience, I recommend enabling:
 - [Whisker](https://github.com/rbjaxter): Elements from budhud
 - [CriticalFlaw](https://github.com/CriticalFlaw): Elements from FlawHUD
 - [Antwan](https://github.com/AsianAntwan): Class loadout panel from AntsHUD
-- [n0kk](https://github.com/n0kk): Creating ahud
 - [Jakadak](https://github.com/jakadak): Elements from ahud-cc
 - [Griever](https://steamcommunity.com/id/griiver/): Chat from ToonHUD
-- [Sevin](https://github.com/Sevin7): Player destruction, Robot destruction panels from 7HUD

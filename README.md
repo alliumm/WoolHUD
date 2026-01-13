@@ -6,6 +6,7 @@ A replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added cust
 
 [![Download](https://img.shields.io/badge/-Download-1B2838?logo=github&logoColor=white)](https://github.com/Beventar/WoolHUD/archive/refs/heads/main.zip)
 [![Screenshots](https://img.shields.io/badge/-Screenshots-blue?logo=imgur&logoColor=white)](https://github.com/Beventar/WoolHUD/wiki/Screenshots)
+[![Wiki](https://img.shields.io/badge/-Wiki-8A2BE2)](https://github.com/Beventar/WoolHUD/wiki)
 [![comfig huds](https://img.shields.io/badge/-comfig%20huds-009688)](https://comfig.app/huds/page/woolhud)
 [![tf2huds.dev](https://img.shields.io/badge/-tf2huds.dev-FE5500)](https://tf2huds.dev/hud/WoolHUD)
 

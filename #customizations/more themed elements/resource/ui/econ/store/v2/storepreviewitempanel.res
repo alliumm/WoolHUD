@@ -349,7 +349,7 @@
 					"fieldName"		"ItemWikiPageButton"
 					"zpos"			"20"
 					"wide"			"150"
-					"tall"			"25"
+					"tall"			"20"
 					"autoResize"	"0"
 					"pinCorner"		"0"
 					"visible"		"1"

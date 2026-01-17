@@ -551,7 +551,7 @@
 			"ypos"			"25"
 			"zpos"			"20"
 			"wide"			"200"
-			"tall"			"20"
+			"tall"			"25"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"

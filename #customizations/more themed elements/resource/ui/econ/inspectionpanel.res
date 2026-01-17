@@ -516,7 +516,7 @@
 			}
 			"zpos"			"10"
 			"wide"			"70"
-			"tall"			"20"
+			"tall"			"25"
 			"autoResize"	"0"
 			"visible"		"1"
 			"enabled"		"1"
@@ -592,7 +592,7 @@
 			}
 			"zpos"		"100"
 			"wide"		"75"
-			"tall"		"20"
+			"tall"		"25"
 			"labelText"			"#TF_ItemAd_ViewOnMarket"
 			"font"			"Regular10"
 			"textinsetx"		"0"

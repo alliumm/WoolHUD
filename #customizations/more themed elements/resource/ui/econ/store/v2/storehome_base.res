@@ -13,42 +13,32 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"ahudDarkGrey"
-		"infocus_bgcolor_override" "ahudDarkGrey"
-		"outoffocus_bgcolor_override" "ahudDarkGrey"
-
+		"settitlebarvisible"		"0"
+		"PaintBackgroundType"		"0"
+		"bgcolor_override"				"ahudDarkGrey"
+		"infocus_bgcolor_override"		"ahudDarkGrey"
+		"outoffocus_bgcolor_override"	"ahudDarkGrey"
+		
 		"item_controls_xoffset"	"2"
 		"item_controls_yoffset"	"2"
-
-		"max_cart_model_panels"	"8"
-
-		"item_ypos"		"70"
-		"item_mod_wide"	"40"
-
-		"item_panels"			"12"
-		"item_columns"			"4"
-		"item_offcenter_x"		"-230"
+		"max_cart_model_panels"	"10"
+		"item_ypos"				"70"
+		"item_panels"			"15"
+		"item_columns"			"5"
+		"item_offcenter_x"		"-292"
 		"item_xdelta"			"8"
 		"item_ydelta"			"8"
-
-		"item_backdrop_zpos"				"1"
-		"show_item_backdrop"				"1"
-		"item_backdrop_color"				"27 27 27 255"
+		"show_item_backdrop"	"1"
+		"item_backdrop_color"	"27 27 27 255"
 		"item_backdrop_left_margin"			"11"
 		"item_backdrop_right_margin"		"11"
 		"item_backdrop_top_margin"			"9"
 		"item_backdrop_bottom_margin"		"42"
 		"item_backdrop_paintbackgroundtype"	"0"
-
-		"item_backdrop_zpos"				"1"
-
 		"item_panel_bgcolor"			"ahudGrey"
 		"item_panel_bgcolor_mouseover"	"156 146 128 255"
 		"item_panel_bgcolor_selected"	"176 166 148 255"
-
-		"classicon_xdelta"		"5"
+		"classicon_xdelta"				"5"
 
 		"modelpanels_kv"
 		{
@@ -61,9 +51,8 @@
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 255"
 			"noitem_textcolor"		"117 107 94 255"
-			"PaintBackgroundType"	"0"
+			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
-
 			"model_xpos"	"24"
 			"model_ypos"	"6"
 			"model_wide"	"71"
@@ -75,7 +64,7 @@
 			"name_only"		"1"
 			"resize_to_text" "0"
 			"name_label_alignment" "3"
-
+			
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
 
@@ -83,15 +72,14 @@
 			{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
-				"inventory_image_type" "1"
+				"inventory_image_type"	"1"
 			}
-
 			"use_item_sounds" "1"
 		}
 
 		"modelpanel_labels_kv"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"north-east"
 			"xpos"			"c-61"
 			"ypos"			"32"
@@ -102,7 +90,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
-
+			
 			"use_item_sounds" "1"
 		}
 
@@ -117,9 +105,9 @@
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 255"
 			"noitem_textcolor"		"117 107 94 255"
-			"PaintBackgroundType"	"0"
+			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
-
+			
 			"model_xpos"	"2"
 			"model_ypos"	"2"
 			"model_wide"	"28"
@@ -127,15 +115,15 @@
 			"text_ypos"		"60"
 			"text_center"	"1"
 			"name_only"		"1"
-
+			
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
 
 			"itemmodelpanel"
 			{
 				"use_item_rendertarget" "0"
-				"allow_rot"				"0"
 				"inventory_image_type" 	"1"
+				"allow_rot"				"0"
 			}
 
 			"use_item_sounds" "1"
@@ -143,7 +131,7 @@
 
 		"cart_labels_kv"
 		{
-			"font"			"HudFontSmallestBold"
+			"font"			"HudFontSmallest"
 			"textAlignment"	"north-east"
 			"xpos"			"c-61"
 			"ypos"			"32"
@@ -171,7 +159,7 @@
 		"bgcolor_override"		"0 0 0 0"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
-		"paintborder"	"1"
+		"paintborder"			"1"
 
 		"text_ypos"			"20"
 		"text_center"		"1"
@@ -190,12 +178,12 @@
     		"tall"	 			"f0"
     		"visible"			"1"
     		"enabled"			"1"
-			"pinCorner"		"0"
-			"autoResize"	"0"
-			"PaintBackgroundType"	"2"
+			"pinCorner"			"0"
+			"autoResize"		"0"
+			"PaintBackgroundType" "2"
 			"border"			"NoBorder"
-			"bgcolor_override"	"ahudDarkerGrey"
-    	}
+			"bgcolor_override"	"35 35 35 255"
+		}
 
 		"attriblabel"
 		{
@@ -220,58 +208,14 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"SaxtonBackgroundPanel"
-		"xpos"			"c-415"
-		"ypos"			"10"
-		"zpos"			"-1"
-		"wide"			"300"
-		"tall"			"300"
-		"visible"		"1"
-		"enabled"		"1"
-
-		"MannCoImage"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"MannCoImage"
-			"xpos"			"15"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"420"
-			"tall"			"220"
-			"visible"		"0"
-			"enabled"		"1"
-			"image"			"store/saxton_welcome"
-			"scaleImage"	"1"
-		}
+		"xpos"			"9999"
 	}
 
 	"StoreBackgroundPanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"StoreBackgroundPanel"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-1"
-		"wide"			"f0"
-		"tall"			"f0"
-		"visible"		"1"
-		"enabled"		"1"
-		"proportiontoparent"	"1"
-
-		"StoreBackgroundImage"
-		{
-			"ControlName"	"ScalableImagePanel"
-			"fieldName"		"StoreBackgroundImage"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"0"
-			"wide"			"f0"
-			"tall"			"f0"
-			"visible"		"1"
-			"enable"		"1"
-			"image"			"store/store_bg001"
-			"scale_image"	"1"
-			"proportiontoparent"	"1"
-		}
+		"xpos"			"9999"
 	}
 
 	"ReloadSchemeButton"
@@ -289,7 +233,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"RELOADSCHEME"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		"dulltext"		"0"
@@ -303,8 +247,8 @@
 	{
 		"ControlName"		"CNavigationPanel"
 		"fieldName"			"ItemCategoryTabs"
-		"xpos"				"c-230"
-		"ypos"				"38"
+		"xpos"				"c-290"
+		"ypos"				"31"
 		"zpos"				"0"
 		"wide"				"430"
 		"tall"				"25"
@@ -312,7 +256,6 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-
 		"auto_scale"		"1"
 		"auto_layout"		"1"
 		"selected_button_default"	"0"
@@ -331,24 +274,23 @@
 			"tabPosition"		"0"
 			"textAlignment"		"center"
 			"scaleImage"		"1"
-			"font"			"Regular14"
+			"font"				"HudFontSmallest"
+			"fgcolor"			"TanLight"
+			"allcaps"			"1"
 
-			"fgcolor"	"TanDark"
-			"defaultBgColor_override" "ahudGrey"
-			"defaultFgColor_override" "TanDark"
-			"armedBgColor_override" "ahudGrey"
-			"armedFgColor_override" "ahudWhite"
-			"selectedBgColor_override" "ahudBlack"
-			"selectedFgColor_override"	"ahudWhite"
+			"defaultBgColor_override"	"TanDarker"
+			"defaultFgColor_override"	"TanLight"
+			"armedBgColor_override"		"TanDark"
+			"armedFgColor_override"		"TanLight"
+			"selectedBgColor_override"	"TanDark"
+			"selectedFgColor_override"	"TanLight"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"sound_armed"		"UI/buttonrollover.wav"
 
 			"paintbackground"	"1"
-			"paintborder"		"1"
-
-			"border"				"ButtonBorder"
+			"paintborder"		"0"
 
 			"stayselectedonclick"	"1"
 			"keyboardinputenabled"	"0"
@@ -359,8 +301,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"PrevPageButton"
-		"xpos"			"c130"
-		"ypos"			"283"
+		"xpos"			"c190"
+		"ypos"			"280"
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
@@ -383,11 +325,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurPageLabel"
-		"font"			"Regular14"
+		"font"			"HudFontSmall"
 		"labelText"		"%backpackpage%"
 		"textAlignment"	"center"
-		"xpos"			"c160"
-		"ypos"			"283"
+		"xpos"			"c220"
+		"ypos"			"280"
 		"zpos"			"5"
 		"wide"			"40"
 		"tall"			"20"
@@ -402,8 +344,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"NextPageButton"
-		"xpos"			"c210"
-		"ypos"			"283"
+		"xpos"			"c270"
+		"ypos"			"280"
 		"zpos"			"5"
 		"wide"			"20"
 		"tall"			"20"
@@ -426,13 +368,13 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BackpackSpaceLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"HudFontSmallest"
 		"labelText"		"%freebackpackspace%"
 		"textAlignment"	"west"
-		"xpos"			"c-237"
-		"ypos"			"314"
+		"xpos"			"c-300"
+		"ypos"			"315"
 		"zpos"			"10"
-		"wide"			"160"
+		"wide"			"200"
 		"tall"			"20"
 		"autoResize"	"1"
 		"pinCorner"		"0"
@@ -444,10 +386,10 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CartButton"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%storecart%"
 		"textAlignment"	"east"
-		"xpos"			"c-238"
+		"xpos"			"c-300"
 		"ypos"			"334"
 		"zpos"			"12"
 		"wide"			"56"
@@ -456,9 +398,7 @@
 		"enabled"		"1"
 		"PaintBackgroundType"	"2"
 		"textinsetx"	"15"
-
 		"Command"		"viewcart"
-		"font"			"HudFontSmallBold"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
@@ -467,7 +407,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CartImage"
-		"xpos"			"c-233"
+		"xpos"			"c-295"
 		"ypos"			"336"
 		"zpos"			"13"
 		"wide"			"24"
@@ -482,18 +422,18 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"BrowseTheStoreButton"
-		"xpos"			"c-365"
-		"ypos"			"c-80"
+		"xpos"			"c-64"
+		"ypos"			"334"
 		"zpos"			"2"
 		"wide"			"160"
-		"tall"			"20"
+		"tall"			"23"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"Browse The Store"
-		"font"			"HudFontSmallBold"
+		"labelText"		"#Store_BrowseTheStore"
+		"font"			"HudFontSmall"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -507,25 +447,25 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"MarketPlaceButton"
-		"xpos"			"c-230"
-		"ypos"			"c40"
+		"xpos"			"c-10"
+		"ypos"			"31"
 		"zpos"			"2"
-		"wide"			"170"
-		"tall"			"23"
+		"wide"			"150"
+		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"Community Marketplace"
-		"font"			"HudFontSmallBold"
+		"labelText"		"#Store_MarketPlace"
+		"font"			"HudFontSmallest"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
 		"Command"		"marketplace"
 		"paintbackground"	"1"
-		"defaultBgColor_override" "ahudBlack"
+		"defaultBgColor_override" "TanDarker"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
@@ -564,7 +504,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CaseLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMedium"
 			"labelText"		"#Store_Case_Label"
 			"textAlignment"	"west"
 			"xpos"			"0"
@@ -582,7 +522,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"KeyLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMedium"
 			"labelText"		"#Store_Key_Label"
 			"textAlignment"	"west"
 			"xpos"			"0"
@@ -600,7 +540,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CaseLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"HudFontMedium"
 			"labelText"		"#Store_Taunt_Label"
 			"textAlignment"	"west"
 			"xpos"			"0"

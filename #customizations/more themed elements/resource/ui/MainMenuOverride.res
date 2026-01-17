@@ -109,8 +109,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"labeltext"		""
-			"font"			""
+			"labeltext"		"("
+			"font"			"CustomIcons"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -126,28 +126,16 @@
 			
 			"paintbackground"	"0"
 			
-			//"defaultFgColor_override" "235 226 202 255"
-			//"armedFgColor_override" "46 43 42 255"
-			"defaultFgColor_override" "Blank"
-			"armedFgColor_override" "Blank"
-			"depressedFgColor_override" "Blank"
+			"defaultFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "255 0 0 255"
+			"depressedFgColor_override" "235 226 202 255"
 			
 			"image_drawcolor"	"ahudWhite"
 			"image_armedcolor"	"255 0 0 255"
 			"SubImage"
 			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"cs-0.5"
-				"ypos"			"cs-0.5"
-				"zpos"			"1"
-				"wide"			"9"
-				"tall"			"9"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"replay/thumbnails/buttons/x"
-				"scaleImage"	"1"
-				"proportionaltoparent"	"1"
+				"visible"		"0"
+				"enabled"		"0"
 			}
 		}
 
@@ -441,8 +429,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"labeltext"		""
-			"font"			"Regular12"
+			"labeltext"		"("
+			"font"			"CustomIcons"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -457,26 +445,17 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "255 0 0 255"
+			"depressedFgColor_override" "235 226 202 255"
 			
 			"image_drawcolor"	"ahudWhite"
 			"image_armedcolor"	"255 0 0 255"
+
 			"SubImage"
 			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"cs-0.5"
-				"ypos"			"cs-0.5"
-				"zpos"			"1"
-				"wide"			"9"
-				"tall"			"9"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"replay/thumbnails/buttons/x"
-				"scaleImage"	"1"
-				"proportionaltoparent"	"1"
+				"visible"		"0"
+				"enabled"		"0"
 			}
 		}
 	

@@ -67,22 +67,38 @@
 	}
 	"CloseButton"
 	{
-		"image_drawcolor"	"ahudWhite"
-		"image_armedcolor"	"255 0 0 255"
-		
+		"ControlName"			"CExImageButton"
+		"fieldName"				"CloseButton"
+		"xpos"					"c221"
+		"ypos"					"c-194"
+		"zpos"					"10"
+		"wide"					"14"
+		"tall"					"14"
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labeltext"				"("
+		"font"					"CustomIcons"
+		"textAlignment"			"center"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"default"				"0"
+		"Command"				"closex"
+		"paintbackground"		"0"
+
+		"sound_depressed"		"UI/buttonclick.wav"
+		"sound_released"		"UI/buttonclickrelease.wav"
+
+		"defaultFgColor_override" 	"TanDark"
+		"armedFgColor_override" 	"RedSolid"
+		"depressedFgColor_override" "TanDark"
+
 		"SubImage"
 		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"SubImage"
-			"xpos"			"2"
-			"ypos"			"2"
-			"zpos"			"1"
-			"wide"			"10"
-			"tall"			"10"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"replay/thumbnails/buttons/x"
-			"scaleImage"	"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}
 	}
 }

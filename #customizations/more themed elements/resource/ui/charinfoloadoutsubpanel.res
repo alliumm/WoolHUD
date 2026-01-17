@@ -304,6 +304,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"allcaps"		"1"
 
 		"pin_to_sibling"               "ShowBackpackButton"
 		"pin_corner_to_sibling"        "4"
@@ -350,10 +351,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"allcaps"		"1"
 
 		"pin_to_sibling"               "ShowCraftingButton"
 		"pin_corner_to_sibling"        "4"
-				"pin_to_sibling_corner"        "6"
+		"pin_to_sibling_corner"        "6"
 	}
 	"ShowArmoryButton"
 	{
@@ -396,6 +398,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"allcaps"		"1"
 
 		"pin_to_sibling"               "ShowArmoryButton"
 		"pin_corner_to_sibling"        "4"
@@ -443,6 +446,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
+		"allcaps"		"1"
 
 		"pin_to_sibling"               "ShowTradeButton"
 		"pin_corner_to_sibling"        "4"
@@ -490,6 +494,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
+		"allcaps"		"1"
 
 		"pin_to_sibling"               "ShowPaintkitsButton"
 		"pin_corner_to_sibling"        "4"
@@ -585,24 +590,6 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"fgcolor_override" "ahudWhite"
-	}
-	"LoadoutLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"LoadoutLabel"
-		"font"			"Bold24"
-		"labelText"		"Loadout"
-		"textAlignment"	"center"
-		"xpos"			"0"
-		"ypos"			"17"
-		"zpos"			"1"
-		"wide"			"f0"
-		"tall"			"25"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
 		"fgcolor_override" "ahudWhite"
 	}
 	"LoadoutChangesLabel"

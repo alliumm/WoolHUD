@@ -44,15 +44,9 @@ For the best possible experience, I recommend enabling:
 # Thanks
 - Woolen: Creating his HUD, Permission to publish
 
-<a href="https://youtube.com/@awoolensleevelet">
-    <img src="https://www.gstatic.com/images/branding/product/1x/youtube_64dp.png" alt="YouTube" width="42" height="42">
-</a>
-<a href="https://twitch.tv/awoolensleevelet">
-    <img src="https://assets.help.twitch.tv/glitchwhite.png" alt="Twitch" width="34" height="38">
-</a>
-<a href="https://discord.gg/woolen">
-    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" width="42" height="42">
-</a>
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0033?logo=youtube&logoColor=white)](https://youtube.com/@awoolensleevelet)
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/awoolensleevelet)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/woolen)
 
 # Credits
 - folks from [HUDS.tf Discord server](https://discord.com/invite/Hz3Q4Z8): General help

@@ -50,11 +50,8 @@ For the best possible experience, I recommend enabling:
 <a href="https://twitch.tv/awoolensleevelet">
     <img src="https://assets.help.twitch.tv/glitchwhite.png" alt="Twitch" width="34" height="38">
 </a>
-<a href="https://twitter.com/WoolenSleevelet">
-    <img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="Twitter" width="38" height="38">
-</a>
 <a href="https://discord.gg/woolen">
-    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" width="38" height="38">
+    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" width="42" height="42">
 </a>
 
 # Credits

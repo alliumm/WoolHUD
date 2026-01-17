@@ -584,6 +584,16 @@ Scheme
 			}
 		}
 
+		"Symbols 64"
+		{
+			"1"
+			{
+				"name"			"hypnotize_icons"
+				"tall"			"64"
+				"antialias"		"1"
+			}
+		}
+
 		"QuestMap_Small_Blur"
 		{
 			"1"
@@ -8049,6 +8059,11 @@ Scheme
 		{
 			"font"	"resource/fonts/icons.ttf"
 			"name"	"TF2Icons"
+		}
+		"22"
+		{
+			"font" 	"resource/fonts/hypnotize_icons.ttf"
+			"name" 	"hypnotize_icons"
 		}
 	}
 }

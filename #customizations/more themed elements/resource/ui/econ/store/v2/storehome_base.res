@@ -51,7 +51,7 @@
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 255"
 			"noitem_textcolor"		"117 107 94 255"
-			"PaintBackgroundType"	"2"
+			"PaintBackgroundType"	"0"
 			"paintborder"	"0"
 			"model_xpos"	"24"
 			"model_ypos"	"6"

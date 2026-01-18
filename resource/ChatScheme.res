@@ -1,6 +1,5 @@
 Scheme
 {
-
 	Colors
 	{
 		// base colors

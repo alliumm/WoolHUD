@@ -1,2 +1,2 @@
 #base   "../../_customizations/#customizations/#enabled/centered mvm money/resource/ui/huditemeffectmeter_powerupbottle.res"
-#base   "../../_customizations/_basefiles/huditemeffectmeter_powerupbottle.res"
+#base   "../../_customizations/_basefiles/resource/ui/huditemeffectmeter_powerupbottle.res"

@@ -1,2 +1,2 @@
-#base	"../../#alternatives/#enabled/game timers/resource/ui/hudmatchstatus.res"
-#base	"hudmatchstatusdefault.res"
+#base	"../../_customizations/#alternatives/#enabled/game timers/resource/ui/hudmatchstatus.res"
+#base	"../../_customizations/_basefiles/hudmatchstatus.res"

@@ -1,2 +1,2 @@
-#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/huditemeffectmeter_sniperfocus.res"
-#base	"huditemeffectmeter_sniperfocusdefault.res"
+#base	"../../_customizations/#alternatives/#enabled/item effect meter labels/resource/ui/huditemeffectmeter_sniperfocus.res"
+#base	"../../_customizations/_basefiles/huditemeffectmeter_sniperfocus.res"

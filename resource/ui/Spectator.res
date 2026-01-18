@@ -1,3 +1,3 @@
-#base	"../../#alternatives/#enabled/streamer mode/resource/ui/spectator.res"
-#base	"../../#alternatives/#enabled/inspect panel/resource/ui/spectator.res"
-#base	"spectatordefault.res"
+#base	"../../_customizations/#alternatives/#enabled/streamer mode/resource/ui/spectator.res"
+#base	"../../_customizations/#alternatives/#enabled/inspect panel/resource/ui/spectator.res"
+#base	"../../_customizations/_basefiles/spectator.res"

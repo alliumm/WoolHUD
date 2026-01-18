@@ -1,2 +1,2 @@
-#base	"../../#alternatives/#enabled/item effect meter labels/resource/ui/huditemeffectmeter_spyknife.res"
-#base	"huditemeffectmeter_spyknifedefault.res"
+#base	"../../_customizations/#alternatives/#enabled/item effect meter labels/resource/ui/huditemeffectmeter_spyknife.res"
+#base	"../../_customizations/_basefiles/huditemeffectmeter_spyknife.res"

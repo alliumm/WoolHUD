@@ -10,4 +10,4 @@
 # Do not export these files on download
 .gitattributes export-ignore
 .github export-ignore
-"#customizations/#enabled/.gitkeep" export-ignore
+"_customizations/#customizations/#enabled/.gitkeep" export-ignore

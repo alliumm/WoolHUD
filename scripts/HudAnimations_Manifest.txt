@@ -1,9 +1,9 @@
 hudanimations_manifest
 {
-	"file" "#alternatives/#enabled/game timers/scripts/hudanimations_custom.txt"
-	"file" "#customizations/#enabled/smaller default pd, rd/scripts/hudanimations_custom.txt"
+	"file" "_customizations/#alternatives/#enabled/game timers/scripts/hudanimations_custom.txt"
+	"file" "_customizations/#customizations/#enabled/smaller default pd, rd/scripts/hudanimations_custom.txt"
 	"file" "scripts/hudanimations.txt"
 	"file" "scripts/hudanimations_custom.txt"
-	"file" "scripts/hudanimations_customDefault.txt"
+	"file" "_customizations/_basefiles/scripts/hudanimations_custom.txt"
 	"file" "scripts/hudanimations_tf.txt"
 }

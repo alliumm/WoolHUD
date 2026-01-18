@@ -1,4 +1,4 @@
-#base "../#customizations/#enabled/horizontal mode selection/resource/clientscheme.res"
-#base "../#customizations/#enabled/more themed elements/resource/clientscheme.res"
-#base "../#customizations/#enabled/typical colors/resource/clientscheme.res"
-#base "clientschemedefault.res"
+#base   "../_customizations/#customizations/#enabled/horizontal mode selection/resource/clientscheme.res"
+#base   "../_customizations/#customizations/#enabled/more themed elements/resource/clientscheme.res"
+#base   "../_customizations/#customizations/#enabled/typical colors/resource/clientscheme.res"
+#base   "../_customizations/_basefiles/clientscheme.res"

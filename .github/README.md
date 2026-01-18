@@ -28,7 +28,6 @@ For the best possible experience, I recommend enabling:
 - main menu normal names
 - main menu (if using with `more themed elements` then rename `scripts` to `_scripts`)
 - payload panel
-- critical damage numbers
 
 **#customizations**
 - centered metal

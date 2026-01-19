@@ -1,2 +1,2 @@
-#base	"../_customizations/#alternatives/#enabled/main menu/scripts/chapterbackgrounds.txt"
+#base	"../_customizations/#alternatives/#enabled/main menu/chapterbackgrounds.txt"
 #base	"../_basetf2hud/scripts/chapterbackgrounds.txt"

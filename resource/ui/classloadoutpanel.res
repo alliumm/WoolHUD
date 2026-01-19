@@ -1,5 +1,5 @@
 #base	"../../_customizations/#alternatives/#enabled/backpack & class loadout panels (left)/resource/ui/classloadoutpanel.res"
 #base	"../../_customizations/#alternatives/#enabled/backpack & class loadout panels (right)/resource/ui/classloadoutpanel.res"
-#base	"../../_customizations/#customizations/#enabled/class loadout panel options/resource/ui/classloadoutpanel.res"
+#base	"../../_customizations/#customizations/#enabled/options-classloadoutpanel.res"
 #base	"../../_customizations/#customizations/#enabled/more themed elements/resource/ui/classloadoutpanel.res"
 #base	"../../_basetf2hud/resource/ui/classloadoutpanel.res"

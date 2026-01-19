@@ -1,2 +1,2 @@
-#base	"../../_customizations/#customizations/#enabled/rectangular killstreak notice/resource/ui/hudkillstreaknotice.res"
+#base	"../../_customizations/#customizations/#enabled/rectangular-hudkillstreaknotice.res"
 #base	"../../_basetf2hud/resource/ui/hudkillstreaknotice.res"

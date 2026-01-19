@@ -97,7 +97,7 @@
 
 	"CaratLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"CaratLabel"
 		"xpos"			"9999"
 	}
@@ -123,7 +123,7 @@
 
 	"TauntCaratLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"TauntCaratLabel"
 		"xpos"			"9999"
 	}
@@ -133,6 +133,76 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TauntLabel"
 		"xpos"			"9999"
+	}
+
+	"CharacterLoadoutButton"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"CharacterLoadoutButton"
+		"wide"				"25"
+		"tall"				"25"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
+		"labelText"			"B"
+		"textAlignment"		"center"
+		"font"				"CustomIcons"
+		"scaleImage"		"1"
+		"Command"			"characterloadout"
+		"paintbackground"	"1"
+
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"defaultFgColor_override"		"White"
+		"armedFgColor_override"			"White"
+		"depressedFgColor_override" 	"White"
+
+		"defaultBgColor_override"		"Select"
+		"depressedBgColor_override" 	"Select"
+
+		"SubImage"
+		{
+			"visible"		"0"
+			"enabled"		"0"
+		}
+	}
+
+	"TauntLoadoutButton"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"TauntLoadoutButton"
+		"wide"				"25"
+		"tall"				"25"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"tabPosition"		"0"
+		"labelText"			"C"
+		"textAlignment"		"center"
+		"font"				"CustomIcons"
+		"scaleImage"		"1"
+		"Command"			"tauntloadout"
+		"paintbackground"	"1"
+
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"defaultFgColor_override"		"White"
+		"armedFgColor_override"			"White"
+		"depressedFgColor_override" 	"White"
+
+		"defaultBgColor_override"		"Select"
+		"depressedBgColor_override" 	"Select"
+
+		"SubImage"
+		{
+			"visible"		"0"
+			"enabled"		"0"
+		}
 	}
 
 	"TopLine"

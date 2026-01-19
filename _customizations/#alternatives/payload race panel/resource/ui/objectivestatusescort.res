@@ -52,10 +52,10 @@
 		{
 			"if_multiple_trains"
 			{
-				"wide"			"0"
-				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
+				"wide"		"0"
+				"tall"		"0"
+				"visible"	"0"
+				"enabled"	"0"
 			}						
 		}
 		
@@ -63,10 +63,10 @@
 		{
 			"if_multiple_trains"
 			{
-				"wide"			"0"
-				"tall"			"0"
-				"visible"		"0"
-				"enabled"		"0"
+				"wide"		"0"
+				"tall"		"0"
+				"visible"	"0"
+				"enabled"	"0"
 			}			
 		}
 
@@ -74,14 +74,14 @@
 		{
 			"if_multiple_trains_top"
 			{
-				"xpos"			"27"
-				"ypos"			"77"
+				"xpos"		"27"
+				"ypos"		"77"
 			}	
 			
 			"if_multiple_trains_bottom"
 			{
-				"xpos"			"27"
-				"ypos"			"77"
+				"xpos"		"27"
+				"ypos"		"77"
 			}	
 		}
 		
@@ -89,14 +89,14 @@
 		{		
 			"if_multiple_trains_top"
 			{
-				"xpos"			"24"
-				"ypos"			"77"
+				"xpos"		"24"
+				"ypos"		"77"
 			}										
 			
 			"if_multiple_trains_bottom"
 			{
-				"xpos"			"24"
-				"ypos"			"77"
+				"xpos"		"24"
+				"ypos"		"77"
 			}	
 		}
 	}

@@ -79,8 +79,8 @@
 
 		"BlackBG"
 		{
-			"ControlName"			"ImagePanel"
-			"fieldName"				"BlackBG"
+			"ControlName"	"ImagePanel"
+			"fieldName"		"BlackBG"
 			"xpos"			"0"
 			"ypos"			"2"
 			"zpos"			"-10"		
@@ -129,11 +129,11 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#Building_hud_sentry_not_built"
-			"labelText_lodef"		"#Building_hud_sentry_not_built_360"
-			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"wrap"	"1"
+			"labelText_lodef"	"#Building_hud_sentry_not_built_360"
+			"textAlignment"		"west"
+			"dulltext"			"0"
+			"brighttext"		"0"
+			"wrap"				"1"
 		}
 	}
 	"BuiltPanel"

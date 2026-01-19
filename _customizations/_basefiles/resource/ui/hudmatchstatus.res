@@ -131,7 +131,7 @@
 			{
 				"particle_xpos" "c0"
 				"particle_ypos" "c0"
-				"particle_scale"	"2"
+				"particle_scale" "2"
 				"particleName"	"versus_door_slam"
 				"start_activated" "0"
 				"loop"	"0"
@@ -364,7 +364,6 @@
 		"tall"			"75"
 		"visible"		"1"
 		"enabled"		"1"
-
 
 		"max_size"	"19"
 
@@ -637,7 +636,7 @@
 
 		"BlueTeamBG"
 		{
-			"ControlName"		"EditablePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"BlueTeamBG"
 			"xpos"			"0"
 			"ypos"			"10"
@@ -652,7 +651,7 @@
 		}
 		"BlueTeamImage"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"BlueTeamImage"
 			"xpos"			"9"
 			"ypos"			"0"
@@ -662,21 +661,21 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/team_blue"
-			"scaleImage"		"1"
+			"scaleImage"	"1"
 		}
 		"BlueTeamLabel"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"BlueTeamLabel"
 			"font"			"CompMatchStartTeamNames"
 			"labelText"		"%blueteamname%"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"xpos"			"48"
 			"ypos"			"13"
 			"zpos"			"20"
 			"wide"			"95"
 			"tall"			"30"
-			"autoResize"		"0"
+			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
@@ -684,7 +683,7 @@
 		}
 		"BlueLeaderAvatar"
 		{
-			"ControlName"		"CAvatarImagePanel"
+			"ControlName"	"CAvatarImagePanel"
 			"fieldName"		"BlueLeaderAvatar"
 			"xpos"			"11"
 			"ypos"			"10"
@@ -730,12 +729,12 @@
 
 			if_large
 			{
-				"tall"			"315"
+				"tall"		"315"
 			}
 		}
 		"BluePlayerListBG"
 		{
-			"ControlName"		"EditablePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"BluePlayerListBG"
 			"xpos"			"4"
 			"ypos"			"30"
@@ -750,14 +749,14 @@
 
 			if_large
 			{
-				"tall"			"325"
+				"tall"		"325"
 			}
 		}
 	}
 
 	"RedTeamPanel"
 	{
-		"ControlName"		"EditablePanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"RedTeamPanel"
 		"xpos"			"r-5"
 		"ypos"			"125"
@@ -769,13 +768,13 @@
 
 		if_large
 		{
-			"ypos"			"65"
-			"tall"			"385"
+			"ypos"		"65"
+			"tall"		"385"
 		}
 
 		"RedTeamBG"
 		{
-			"ControlName"		"EditablePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"RedTeamBG"
 			"xpos"			"0"
 			"ypos"			"10"
@@ -790,7 +789,7 @@
 		}
 		"RedTeamImage"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"RedTeamImage"
 			"xpos"			"84"
 			"ypos"			"-9"
@@ -800,21 +799,21 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/team_Red"
-			"scaleImage"		"1"
+			"scaleImage"	"1"
 		}
 		"RedTeamLabel"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"RedTeamLabel"
 			"font"			"CompMatchStartTeamNames"
 			"labelText"		"%redteamname%"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"xpos"			"5"
 			"ypos"			"13"
 			"zpos"			"20"
 			"wide"			"95"
 			"tall"			"30"
-			"autoResize"		"0"
+			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
@@ -822,7 +821,7 @@
 		}
 		"RedLeaderAvatar"
 		{
-			"ControlName"		"CAvatarImagePanel"
+			"ControlName"	"CAvatarImagePanel"
 			"fieldName"		"RedLeaderAvatar"
 			"xpos"			"102"
 			"ypos"			"10"
@@ -868,12 +867,12 @@
 
 			if_large
 			{
-				"tall"			"315"
+				"tall"		"315"
 			}
 		}
 		"RedPlayerListBG"
 		{
-			"ControlName"		"EditablePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"RedPlayerListBG"
 			"xpos"			"4"
 			"ypos"			"30"
@@ -888,7 +887,7 @@
 
 			if_large
 			{
-				"tall"			"325"
+				"tall"		"325"
 			}
 		}
 	}

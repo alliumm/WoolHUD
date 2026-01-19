@@ -38,6 +38,7 @@ Scheme
 				}
 			}
 		}
+
 		DarkBorderThick
 		{
 			"inset" "0 0 0 0"
@@ -114,6 +115,7 @@ Scheme
 				}
 			}
 		}
+		
 		WhiteBorderThick
 		{
 			"inset" "0 0 0 0"

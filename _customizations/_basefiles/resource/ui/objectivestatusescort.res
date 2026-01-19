@@ -38,17 +38,17 @@
 		
 		"if_multiple_trains"
 		{
-			"ypos"			"114"
-			"zpos"			"3"
-			"tall"			"12"
-			"image"			"../hud/cart_track_neutral_opaque"
+			"ypos"		"114"
+			"zpos"		"3"
+			"tall"		"12"
+			"image"		"../hud/cart_track_neutral_opaque"
 		}
 		
 		"if_single_with_hills"
 		{
-			"ypos"			"119"
-			"tall"			"12"
-			"image"			"../hud/cart_track_neutral_opaque"
+			"ypos"		"119"
+			"tall"		"12"
+			"image"		"../hud/cart_track_neutral_opaque"
 		}	
 	}	
 	
@@ -67,10 +67,10 @@
 		
 		"if_multiple_trains"
 		{
-			"ypos"			"114"
-			"zpos"			"6"
-			"tall"			"12"
-			"visible"		"1"
+			"ypos"		"114"
+			"zpos"		"6"
+			"tall"		"12"
+			"visible"	"1"
 		}
 	}		
 	
@@ -94,46 +94,46 @@
 		
 		"if_team_red"
 		{
-			"image"			"../hud/cart_home_red"
+			"image"		"../hud/cart_home_red"
 		}
 		
 		"if_single_with_hills_blue"
 		{
-			"image"			"../hud/cart_home_blue_opaque"
+			"image"		"../hud/cart_home_blue_opaque"
 		}		
 		
 		"if_single_with_hills_red"
 		{
-			"image"			"../hud/cart_home_red_opaque"
+			"image"		"../hud/cart_home_red_opaque"
 		}		
 		
 		"if_multiple_trains"
 		{
-			"xpos"			"86"
-			"zpos"			"5"
-			"wide"			"14"
-			"tall"			"14"
-			"image"			"../hud/cart_track_neutral_opaque"
+			"xpos"		"86"
+			"zpos"		"5"
+			"wide"		"14"
+			"tall"		"14"
+			"image"		"../hud/cart_track_neutral_opaque"
 		}
 		
 		"if_multiple_trains_top"
 		{
-			"ypos"			"113"
+			"ypos"		"113"
 		}
 		
 		"if_multiple_trains_bottom"
 		{
-			"ypos"			"113"
+			"ypos"		"113"
 		}
 		
 		"if_multiple_trains_red"
 		{
-			"image"			"../hud/cart_home_red_square"
+			"image"		"../hud/cart_home_red_square"
 		}
 		
 		"if_multiple_trains_blue"
 		{
-			"image"			"../hud/cart_home_blue_square"
+			"image"		"../hud/cart_home_blue_square"
 		}
 	}
 	
@@ -157,11 +157,11 @@
 												
 		"if_multiple_trains"
 		{
-			"xpos"			"88"
-			"ypos"			"114"
-			"zpos"			"5"	
-			"wide"			"12"
-			"tall"			"12"
+			"xpos"		"88"
+			"ypos"		"114"
+			"zpos"		"5"	
+			"wide"		"12"
+			"tall"		"12"
 		}
 	}
 
@@ -179,10 +179,10 @@
 				
 		"if_multiple_trains"
 		{
-			"ypos"			"48"
-			"zpos"			"8"
-			"wide"			"52"
-			"tall"			"170"
+			"ypos"		"48"
+			"zpos"		"8"
+			"wide"		"52"
+			"tall"		"170"
 		}
 		
 		"RecedeTime"
@@ -206,20 +206,20 @@
 			
 			"if_multiple_trains"
 			{
-				"font"			"Default"
-				"xpos"			"21"
-				"wide"			"11"
-				"tall"			"10"
+				"font"		"Default"
+				"xpos"		"21"
+				"wide"		"11"
+				"tall"		"10"
 			}			
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"46"
+				"ypos"		"46"
 			}										
 			
 			"if_multiple_trains_bottom"
 			{
-				"ypos"			"82"
+				"ypos"		"82"
 			}
 		}
 		
@@ -243,17 +243,17 @@
 			
 			"if_team_blue"
 			{
-				"image"			"../hud/cart_blue"
+				"image"		"../hud/cart_blue"
 			}		
 			
 			"if_team_red"
 			{
-				"image"			"../hud/cart_red"
+				"image"		"../hud/cart_red"
 			}
 			
 			"if_multiple_trains"
 			{
-				"ypos"			"45"
+				"ypos"		"45"
 			}						
 		}
 		
@@ -277,18 +277,18 @@
 			
 			"if_team_blue"
 			{
-				"image"			"../hud/cart_blue_bottom"
+				"image"		"../hud/cart_blue_bottom"
 			}			
 			
 			"if_team_red"
 			{
-				"image"			"../hud/cart_red_bottom"
+				"image"		"../hud/cart_red_bottom"
 			}
 			
 			"if_multiple_trains"
 			{
-				"xpos"			"13"
-				"ypos"			"73"
+				"xpos"		"13"
+				"ypos"		"73"
 			}			
 		}
 		
@@ -312,14 +312,14 @@
 			
 			"if_multiple_trains_top"
 			{
-				"xpos"			"0"
-				"ypos"			"42"
+				"xpos"		"0"
+				"ypos"		"42"
 			}
 
 			"if_multiple_trains_bottom"
 			{
-				"xpos"			"0"
-				"ypos"			"76"
+				"xpos"		"0"
+				"ypos"		"76"
 			}
 		}
 		
@@ -343,19 +343,19 @@
 			
 			"if_multiple_trains"
 			{
-				"xpos"			"22"
-				"wide"			"8"
-				"tall"			"8"
+				"xpos"		"22"
+				"wide"		"8"
+				"tall"		"8"
 			}
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"47"
+				"ypos"		"47"
 			}	
 			
 			"if_multiple_trains_bottom"
 			{
-				"ypos"			"84"
+				"ypos"		"84"
 			}	
 		}
 		
@@ -375,12 +375,12 @@
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"47"
+				"ypos"		"47"
 			}	
 			
 			"if_multiple_trains_bottom"
 			{
-				"ypos"			"83"
+				"ypos"		"83"
 			}	
 		}
 
@@ -464,14 +464,14 @@
 			"ControlName"		"EditablePanel"
 			"fieldName"			"EscortTeardrop"
 			"xpos"				"8"
-			"xpos_minmode"			"9"
+			"xpos_minmode"		"9"
 			"ypos"				"13"
-			"ypos_minmode"			"8"			
+			"ypos_minmode"		"8"			
 			"zpos"				"20"
 			"wide"				"105"
-			"wide_minmode"			"65"			
+			"wide_minmode"		"65"			
 			"tall"				"65"
-			"tall_minmode"			"42"			
+			"tall_minmode"		"42"			
 			"visible"			"0"
 			"enabled"			"1"
 			
@@ -491,9 +491,9 @@
 				"ypos"				"0"
 				"zpos"				"0"
 				"wide"				"0"
-				"wide_minmode"			"0"				
+				"wide_minmode"		"0"				
 				"tall"				"0"
-				"tall_minmode"			"0"
+				"tall_minmode"		"0"
 				"visible"			"0"
 				"enabled"			"0"
 				"scaleImage"		"1"
@@ -511,15 +511,15 @@
 				"ControlName"		"Label"
 				"fieldName"			"ProgressText"
 				"font"				"DefaultSmall"
-				"font_minmode"			"DefaultVerySmall"
+				"font_minmode"		"DefaultVerySmall"
 				"xpos"				"0"
 				"ypos"				"8"
-				"ypos_minmode"			"3"
+				"ypos_minmode"		"3"
 				"zpos"				"23"
 				"wide"				"0"
-				"wide_minmode"			"0"
+				"wide_minmode"		"0"
 				"tall"				"0"
-				"tall_minmode"			"0"
+				"tall_minmode"		"0"
 				"autoResize"		"0"
 				"pinCorner"			"0"
 				"visible"			"0"
@@ -568,14 +568,14 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"Capping"	
 				"xpos"			"12"
-				"xpos_minmode"		"8"
+				"xpos_minmode"	"8"
 				"ypos"			"13"
-				"ypos_minmode"		"8"
+				"ypos_minmode"	"8"
 				"zpos"			"1"
 				"wide"			"0"
-				"wide_minmode"		"0"
+				"wide_minmode"	"0"
 				"tall"			"0"
-				"tall_minmode"		"0"
+				"tall_minmode"	"0"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"0"

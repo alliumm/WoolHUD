@@ -40,26 +40,26 @@ Scheme
 		// vgui_controls color specifications
 		Border.Bright					"200 200 200 196"	// the lit side of a control
 		Border.Dark						"40 40 40 196"		// the dark/unlit side of a control
-		Border.Selection				"0 0 0 196"			// the additional border color for displaying the default/selected button
+		Border.Selection				"0 0 0 196"		// the additional border color for displaying the default/selected button
 
 		Button.TextColor				"White"
 		Button.BgColor					"Blank"
 		Button.ArmedTextColor			"White"
 		Button.ArmedBgColor				"Blank"				[$WIN32]
-		Button.ArmedBgColor				"190 115 0 255"		[$X360]
+		Button.ArmedBgColor				"190 115 0 255"	[$X360]
 		Button.DepressedTextColor		"White"
 		Button.DepressedBgColor			"Blank"
 		Button.FocusBorderColor			"Black"
 
 		CheckButton.TextColor			"White"
-		CheckButton.SelectedTextColor		"White"
-		CheckButton.BgColor			"TransparentBlack"
+		CheckButton.SelectedTextColor	"White"
+		CheckButton.BgColor				"TransparentBlack"
 		CheckButton.Border1  			"Border.Dark" 		// the left checkbutton border
 		CheckButton.Border2  			"Border.Bright"		// the right checkbutton border
-		CheckButton.Check			"White"	// color of the check itself
-		CheckButton.HighlightFgColor		"OffWhite"
+		CheckButton.Check				"White"				// color of the check itself
+		CheckButton.HighlightFgColor	"OffWhite"
 		CheckButton.ArmedBgColor		"Blank"
-		CheckButton.DepressedBgColor		"Blank"
+		CheckButton.DepressedBgColor	"Blank"
 		CheckButton.DisabledBgColor	   	"TransparentBlack"
 				
 		ComboBoxButton.ArrowColor		"DullWhite"
@@ -202,17 +202,17 @@ Scheme
 		NewGame.TextColor			"White"
 		NewGame.FillColor			"0 0 0 255"
 		NewGame.SelectionColor		"Orange"			[$WIN32]
-		NewGame.SelectionColor		"0 0 0 255"			[$X360]
+		NewGame.SelectionColor		"0 0 0 255"		[$X360]
 		NewGame.DisabledColor		"128 128 128 196"
 
 		MessageDialog.MatchmakingBG			"46 43 42 255"	[$X360]
-		MessageDialog.MatchmakingBGBlack			"22 22 22 255"	[$X360]
+		MessageDialog.MatchmakingBGBlack	"22 22 22 255"	[$X360]
 		
 		MatchmakingMenuItemTitleColor			"200 184 151 255"	[$X360]
 		MatchmakingMenuItemDescriptionColor		"200 184 151 255"	[$X360]
 
 		"QuickListBGDeselected"		"AchievementsDarkGrey"
-	 	"QuickListBGSelected"           "AchievementsLightGrey"
+	 	"QuickListBGSelected"       "AchievementsLightGrey"
 	}
 
 	//////////////////////// BITMAP FONT FILES /////////////////////////////
@@ -243,6 +243,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		// fonts are used in order that they are listed
 		"DebugFixedSmall"
 		{
@@ -254,22 +255,24 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"DefaultFixedOutline"
 		{
 			"1"
 			{
-				"name"		 "Lucida Console" [!$OSX]
-				"name"		 "Lucida Console" [$X360]
-				"name"		 "Verdana" [$OSX]
+				"name"		"Lucida Console" [!$OSX]
+				"name"		"Lucida Console" [$X360]
+				"name"		"Verdana" [$OSX]
 				"tall"		"14" [$LINUX]
 				"tall"		"11" [$OSX]
-				"tall"		 "10"
+				"tall"		"10"
 				"tall_lodef" "15"
 				"tall_hidef" "20"
 				"weight"	 "0"
 				"outline"	 "1"
 			}
 		}
+
 		"Default"
 		{
 			"1"
@@ -281,6 +284,7 @@ Scheme
 				"weight"	"500"
 			}
 		}
+
 		"DefaultBold"
 		{
 			"1"
@@ -292,6 +296,7 @@ Scheme
 				"weight"	"1000"
 			}
 		}
+
 		"DefaultUnderline"
 		{
 			"1"
@@ -304,6 +309,7 @@ Scheme
 				"underline" "1"
 			}
 		}
+
 		"DefaultSmall"
 		{
 			"1"
@@ -315,6 +321,7 @@ Scheme
 				"weight"	"0"
 			}
 		}
+
 		"DefaultSmallDropShadow"
 		{
 			"1"
@@ -326,6 +333,7 @@ Scheme
 				"dropshadow" "1"
 			}
 		}
+
 		"DefaultVerySmall"
 		{
 			"1"
@@ -347,6 +355,7 @@ Scheme
 				"weight"	"0"
 			}
 		}
+
 		"UiBold"
 		{
 			"1"	[$WIN32]
@@ -365,6 +374,7 @@ Scheme
 				"outline"	"1"
 			}
 		}
+
 		"ChapterTitle"	[$X360]
 		{
 			"1"
@@ -376,6 +386,7 @@ Scheme
 				"outline"		"1"
 			}
 		}
+
 		"ChapterTitleBlur"	[$X360]
 		{
 			"1"
@@ -388,6 +399,7 @@ Scheme
 				"blur_hidef"	"5"
 			}
 		}
+
 		"MenuLarge"
 		{
 			//"1"	[$LINUX]
@@ -414,6 +426,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"AchievementTitleFont"
 		{
 			"1"
@@ -422,7 +435,7 @@ Scheme
 				"tall"		"20"
 				"weight"	"1200"
 				"antialias" "1"
-				"outline" "1"
+				"outline" 	"1"
 			}
 		}
 		
@@ -438,7 +451,6 @@ Scheme
 			}
 		}
 		
-		
 		"AchievementDescriptionFont"
 		{
 			"1"
@@ -447,7 +459,7 @@ Scheme
 				"tall"		"15"
 				"weight"	"1200"
 				"antialias" "1"
-				"outline" "1"
+				"outline" 	"1"
 				"yres"		"0 480"
 			}
 			"2"
@@ -456,8 +468,8 @@ Scheme
 				"tall"		"20"
 				"weight"	"1200"
 				"antialias" "1"
-				"outline" "1"
-				"yres"	 "481 10000"
+				"outline" 	"1"
+				"yres"	 	"481 10000"
 			}
 		}
 		
@@ -475,13 +487,14 @@ Scheme
 				"scaley_lodef"	"0.75"
 			}
 		}
+
 		"ConsoleText"
 		{
 			"1"
 			{
-				"name"		 "Lucida Console" [!$OSX]
-				"name"		 "Lucida Console" [$X360]
-				"name"		 "Verdana" [$OSX]
+				"name"		"Lucida Console" [!$OSX]
+				"name"		"Lucida Console" [$X360]
+				"name"		"Verdana" [$OSX]
 				"tall"		"11" [$OSX]
 				"tall"		"14" [$LINUX]
 				"tall"		"10"
@@ -511,7 +524,7 @@ Scheme
 				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"1"
-				"yres"	"480 1199"
+				"yres"		"480 1199"
 			}
 			"2" // misyl: Proportional
 			{
@@ -555,6 +568,7 @@ Scheme
 				"weight"	"900"
 			}
 		}
+
 		"HUDNumber1"
 		{
 			"1"
@@ -564,6 +578,7 @@ Scheme
 				"weight"	"900"
 			}
 		}
+
 		"HUDNumber2"
 		{
 			"1"
@@ -573,6 +588,7 @@ Scheme
 				"weight"	"900"
 			}
 		}
+
 		"HUDNumber3"
 		{
 			"1"
@@ -582,6 +598,7 @@ Scheme
 				"weight"	"900"
 			}
 		}
+
 		"HUDNumber4"
 		{
 			"1"
@@ -591,6 +608,7 @@ Scheme
 				"weight"	"900"
 			}
 		}
+
 		"HUDNumber5"
 		{
 			"1"
@@ -600,12 +618,13 @@ Scheme
 				"weight"	"900"
 			}
 		}
+
 		"DefaultFixed"
 		{
 			"1"
 			{
-				"name"		 "Lucida Console" [!$OSX]
-				"name"		 "Verdana" [$OSX]
+				"name"		"Lucida Console" [!$OSX]
+				"name"		"Verdana" [$OSX]
 				"tall"		"11" [$POSIX]
 				"tall"		"10" [!$POSIX]
 				"weight"	"0"
@@ -622,8 +641,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Lucida Console" [!$OSX]
-				"name"		 "Verdana" [$OSX]
+				"name"		"Lucida Console" [!$OSX]
+				"name"		"Verdana" [$OSX]
 				"tall"		"14" [$LINUX]
 				"tall"		"11" [$POSIX]
 				"tall"		"10"
@@ -648,6 +667,7 @@ Scheme
 				"weight"	"500"
 			}
 		}
+		
 		"CloseCaption_Italic"
 		{
 			"1"
@@ -659,6 +679,7 @@ Scheme
 				"italic"	"1"
 			}
 		}
+
 		"CloseCaption_Bold"
 		{
 			"1"
@@ -669,6 +690,7 @@ Scheme
 				"weight"	"900"
 			}
 		}
+
 		"CloseCaption_BoldItalic"
 		{
 			"1"
@@ -735,8 +757,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"			"Arial" [!$POSIX]
+				"name"			"Verdana Bold" [$POSIX]
 				"weight"		"2000"
 				"tall"			"20"
 				"antialias"		"1"
@@ -747,8 +769,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"			"Arial" [!$POSIX]
+				"name"			"Verdana Bold" [$POSIX]
 				"weight"		"2000"
 				"tall"			"18"
 				"antialias"		"1"
@@ -759,8 +781,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"			"Arial" [!$POSIX]
+				"name"			"Verdana Bold" [$POSIX]
 				"weight"		"1500"
 				"tall"			"16" [!$POSIX]
 				"tall"			"18" [$POSIX]
@@ -772,21 +794,20 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"			"Arial" [!$POSIX]
+				"name"			"Verdana Bold" [$POSIX]
 				"weight"		"1500"
 				"tall"			"16"
 				"antialias"		"1"
 			}
 		}
-
 		
 		StatsPageText
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"			"Arial" [!$POSIX]
+				"name"			"Verdana Bold" [$POSIX]
 				"weight"		"1500"
 				"tall"			"14" [!$POSIX]
 				"tall"			"16" [$POSIX]
@@ -798,8 +819,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana Bold" [$POSIX]
+				"name"			"Arial" [!$POSIX]
+				"name"			"Verdana Bold" [$POSIX]
 				"weight"		"1500"
 				"tall"			"18" [!$POSIX]
 				"tall"			"19" [$POSIX]
@@ -811,8 +832,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$POSIX]
-				"name"		"Verdana" [$OSX]
+				"name"			"Arial" [!$POSIX]
+				"name"			"Verdana" [$OSX]
 				"weight"		"1000"
 				"tall"			"14" [!$POSIX]
 				"tall"			"15" [$POSIX]
@@ -843,7 +864,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"480 599"
+				"yres"		"480 599"
 			}
 			"2"
 			{
@@ -851,7 +872,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"600 767"
+				"yres"		"600 767"
 			}
 			"3"
 			{
@@ -859,7 +880,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"768 1023"
+				"yres"		"768 1023"
 				"antialias"	"1"
 			}
 			"4"
@@ -868,7 +889,7 @@ Scheme
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1024 1199"
+				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
@@ -877,11 +898,10 @@ Scheme
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
+				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
 		}
-	
 	}
 
 	//
@@ -942,6 +962,7 @@ Scheme
 				}
 			}
 		}
+
 		RaisedBorder
 		{
 			"inset" "0 0 1 1"
@@ -1108,7 +1129,6 @@ Scheme
 					"offset" "0 0"
 				}
 			}
-
 		}
 
 		TabActiveBorder
@@ -1140,9 +1160,7 @@ Scheme
 					"offset" "0 0"
 				}
 			}
-
 		}
-
 
 		ToolTipBorder
 		{
@@ -1298,7 +1316,7 @@ Scheme
 		"7"		"resource/linux_fonts/DejaVuSans-Oblique.ttf"
 		"8"		"resource/linux_fonts/LiberationSans-Regular.ttf"
 		"9"		"resource/linux_fonts/LiberationSans-Bold.ttf"
-		"10"		"resource/linux_fonts/LiberationMono-Regular.ttf"
-		"11"		"resource/linux_fonts/FiraSans-Regular.ttf"
+		"10"	"resource/linux_fonts/LiberationMono-Regular.ttf"
+		"11"	"resource/linux_fonts/FiraSans-Regular.ttf"
 	}
 }

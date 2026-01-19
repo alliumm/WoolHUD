@@ -2,7 +2,7 @@
 {	
 	"TimePanelBG"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"TimePanelBG"
 		"xpos"			"16"
 		"xpos_minmode"	"35"
@@ -19,7 +19,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_blue_bg"	
-		"scaleImage"		"1"	
+		"scaleImage"	"1"	
 
 		if_match
 		{
@@ -28,7 +28,7 @@
 	}
 	"TimePanelProgressBar"
 	{
-		"ControlName"			"CTFProgressBar"
+		"ControlName"		"CTFProgressBar"
 		"fieldName"			"TimePanelProgressBar"
 		"xpos"				"67"
 		"xpos_hidef"		"159"
@@ -44,12 +44,12 @@
 		"visible"			"1"
 		"visible_minmode"	"0"
 		"enabled"			"1"
-		"scaleImage"			"1"
+		"scaleImage"		"1"
 		"image"				"../hud/objectives_timepanel_progressbar"
-		"color_active"			"TimerProgress.Active"
-		"color_inactive"		"TimerProgress.InActive"
-		"color_warning"			"TimerProgress.Warning"
-		"percent_warning"		"0.75"
+		"color_active"		"TimerProgress.Active"
+		"color_inactive"	"TimerProgress.InActive"
+		"color_warning"		"TimerProgress.Warning"
+		"percent_warning"	"0.75"
 
 		if_match
 		{
@@ -58,7 +58,7 @@
 	}
 	"WaitingForPlayersLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"WaitingForPlayersLabel"
 		"xpos"			"16"
 		"xpos_hidef"	"0"
@@ -77,9 +77,9 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_WaitingForPlayers"
-		"textAlignment"		"center"
+		"textAlignment"	"center"
 		"dulltext"		"0"
-		"brighttext"		"0"
+		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"ClockSubTextTiny"
 		"font_hidef"	"HudFontSmall"
@@ -99,7 +99,7 @@
 	}			
 	"WaitingForPlayersBG"
 	{
-		"ControlName"		"CTFImagePanel"
+		"ControlName"	"CTFImagePanel"
 		"fieldName"		"WaitingForPlayersBG"
 		"xpos"			"16"	[$WIN32]
 		"xpos"			"11"	[$X360]
@@ -113,7 +113,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
-		"scaleImage"		"1"	
+		"scaleImage"	"1"	
 
 		if_match
 		{
@@ -122,7 +122,7 @@
 	}
 	"OvertimeLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"OvertimeLabel"
 		"xpos"			"16"
 		"xpos_hidef"	"0"
@@ -141,9 +141,9 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_Overtime"
-		"textAlignment"		"center"
+		"textAlignment"	"center"
 		"dulltext"		"0"
-		"brighttext"		"0"
+		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"ClockSubText"
 		"font_hidef"	"HudFontSmall"
@@ -163,7 +163,7 @@
 	}			
 	"OvertimeBG"
 	{
-		"ControlName"		"CTFImagePanel"
+		"ControlName"	"CTFImagePanel"
 		"fieldName"		"OvertimeBG"
 		"xpos"			"16"	[$WIN32]
 		"xpos"			"11"	[$X360]
@@ -177,7 +177,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
-		"scaleImage"		"1"	
+		"scaleImage"	"1"	
 
 		if_match
 		{
@@ -186,7 +186,7 @@
 	}
 	"SuddenDeathLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"SuddenDeathLabel"
 		"xpos"			"16"
 		"xpos_hidef"	"0"
@@ -205,9 +205,9 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_SuddenDeath"
-		"textAlignment"		"center"
+		"textAlignment"	"center"
 		"dulltext"		"0"
-		"brighttext"		"0"
+		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"ClockSubTextSuddenDeath"
 		"font_hidef"	"HudFontSmall"
@@ -227,7 +227,7 @@
 	}			
 	"SuddenDeathBG"
 	{
-		"ControlName"		"CTFImagePanel"
+		"ControlName"	"CTFImagePanel"
 		"fieldName"		"SuddenDeathBG"
 		"xpos"			"16"	[$WIN32]
 		"xpos"			"11"	[$X360]
@@ -241,7 +241,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
-		"scaleImage"		"1"	
+		"scaleImage"	"1"	
 
 		if_match
 		{
@@ -269,9 +269,9 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#game_Setup"
-		"textAlignment"		"center"
+		"textAlignment"	"center"
 		"dulltext"		"0"
-		"brighttext"		"0"
+		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"ClockSubText"
 		"font_minmode"	"ClockSubTextSuddenDeath"
@@ -292,7 +292,7 @@
 	}	
 	"SetupBG"
 	{
-		"ControlName"		"CTFImagePanel"
+		"ControlName"	"CTFImagePanel"
 		"fieldName"		"SetupBG"
 		"xpos"			"16"	[$WIN32]
 		"xpos"			"11"	[$X360]
@@ -306,7 +306,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
-		"scaleImage"		"1"	
+		"scaleImage"	"1"	
 
 		if_match
 		{
@@ -334,9 +334,9 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"%servertimeleft%"
-		"textAlignment"		"center"
+		"textAlignment"	"center"
 		"dulltext"		"0"
-		"brighttext"		"0"
+		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"ClockSubText"
 		"font_minmode"	"ClockSubTextSuddenDeath"
@@ -357,7 +357,7 @@
 	}	
 	"ServerTimeLimitLabelBG"
 	{
-		"ControlName"		"CTFImagePanel"
+		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ServerTimeLimitLabelBG"
 		"xpos"			"16"	[$WIN32]
 		"xpos"			"11"	[$X360]
@@ -371,7 +371,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
-		"scaleImage"		"1"
+		"scaleImage"	"1"
 		
 		if_match
 		{

@@ -25,11 +25,11 @@
 
 		"BgAlpha"	"0"
 
-		"GrowTime"		"0.24"
+		"GrowTime"			"0.24"
 		"ItemHiddenTime"	"0.2" 
 		"ItemFadeInTime"	"0.17"	
 		"ItemFadeOutTime"	"0.24"
-		"topoffset"		"1"
+		"topoffset"			"1"
 	}
 	
 	/////////////////////////////////////////////////////////////////////////////
@@ -41,25 +41,25 @@
 	HudDeathNotice
 	{
 		"fieldName" "HudDeathNotice"
-		"visible" "1"
-		"enabled" "1"
-		"xpos"	 "r640"	
-		"ypos"	 "10"	
-		"wide"	 "628"
-		"tall"	 "468"
+		"visible" 	"1"
+		"enabled" 	"1"
+		"xpos"	 	"r640"	
+		"ypos"	 	"10"	
+		"wide"	 	"628"
+		"tall"	 	"468"
 
-		"MaxDeathNotices" "12"
-		"IconScale"	  "0.35"
-		"LineHeight"	  "14"
-		"LineSpacing"	  "-1"
-		"CornerRadius"	  "0"
-		"RightJustify"	  "1"	// If 1, draw notices from the right
+		"MaxDeathNotices" 	"12"
+		"IconScale"	  		"0.35"
+		"LineHeight"	  	"14"
+		"LineSpacing"	  	"-1"
+		"CornerRadius"	  	"0"
+		"RightJustify"	  	"1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Bold9"
+		"TextFont"			"Bold9"
 		
-		"TeamBlue"		"HUDBlueTeamSolid"
-		"TeamRed"		"HUDRedTeamSolid"
-		"IconColor"		"White"
+		"TeamBlue"			"HUDBlueTeamSolid"
+		"TeamRed"			"HUDRedTeamSolid"
+		"IconColor"			"White"
 		"LocalPlayerColor"	"Black"
 
 		"BaseBackgroundColor"	"0 0 0 214"		

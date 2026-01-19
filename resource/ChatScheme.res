@@ -40,7 +40,7 @@ Scheme
 		ComboBoxButton.BgColor			"Blank"
 		ComboBoxButton.DisabledBgColor	"Blank"
 
-		"Chat.TypingText"		"White"
+		"Chat.TypingText"				"White"
 
 		Frame.TitleTextInsetX			16
 		Frame.ClientInsetX				8
@@ -72,8 +72,8 @@ Scheme
 
 		Label.TextDullColor				"DullWhite"
 		Label.TextColor					"OffWhite"
-		Label.TextBrightColor				"White"
-		Label.SelectedTextColor				"White"
+		Label.TextBrightColor			"White"
+		Label.SelectedTextColor			"White"
 		Label.BgColor					"TransparentBlack"
 		Label.DisabledFgColor1			"117 117 117 255"
 		Label.DisabledFgColor2			"30 30 30 255"
@@ -197,7 +197,6 @@ Scheme
 	// describes all the fonts
 	Fonts
 	{
-
 		"Default"
 		{
 			"1"
@@ -206,7 +205,7 @@ Scheme
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"480 599"
+				"yres"		"480 599"
 			}
 			"2"
 			{
@@ -214,7 +213,7 @@ Scheme
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"600 767"
+				"yres"		"600 767"
 			}
 			"3"
 			{
@@ -222,7 +221,7 @@ Scheme
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"768 1023"
+				"yres"		"768 1023"
 				"antialias"	"1"
 			}
 			"4"
@@ -231,7 +230,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"1024 1199"
+				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
@@ -240,7 +239,7 @@ Scheme
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"1200 6000"
+				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
 		}
@@ -383,17 +382,15 @@ Scheme
 				"antialias"		"0" // Chat antialias
 			}
 		}
-
-
 	}
 
 	Borders
 	{
-		BaseBorder		DepressedBorder
-		ButtonBorder	RaisedBorder
-		ComboBoxBorder	DepressedBorder
-		MenuBorder		RaisedBorder
-		BrowserBorder	DepressedBorder
+		BaseBorder			DepressedBorder
+		ButtonBorder		RaisedBorder
+		ComboBoxBorder		DepressedBorder
+		MenuBorder			RaisedBorder
+		BrowserBorder		DepressedBorder
 		PropertySheetBorder	RaisedBorder
 
 		FrameBorder
@@ -440,6 +437,7 @@ Scheme
 				}
 			}
 		}
+
 		RaisedBorder
 		{
 			"inset" "0 0 1 1"
@@ -604,7 +602,6 @@ Scheme
 					"offset" "0 0"
 				}
 			}
-
 		}
 
 		TabActiveBorder
@@ -636,9 +633,7 @@ Scheme
 					"offset" "0 0"
 				}
 			}
-
 		}
-
 
 		ToolTipBorder
 		{

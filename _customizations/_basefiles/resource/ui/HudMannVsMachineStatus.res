@@ -57,29 +57,29 @@
 
 	"WarningSwoop"
 	{
-		"ControlName"	"CWarningSwoop"
-		"fieldName"		"WarningSwoop"
-		"xpos"			"c-12"
-		"ypos"			"0"
-		"zpos"			"10"
-		"wide"			"24"
-		"tall"			"220"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../sprites/obj_icons/warning_highlight"
-		"scaleImage"	"1"
-		"time"			"0.3"		
+		"ControlName"		"CWarningSwoop"
+		"fieldName"			"WarningSwoop"
+		"xpos"				"c-12"
+		"ypos"				"0"
+		"zpos"				"10"
+		"wide"				"24"
+		"tall"				"220"
+		"visible"			"0"
+		"enabled"			"1"
+		"image"				"../sprites/obj_icons/warning_highlight"
+		"scaleImage"		"1"
+		"time"				"0.3"		
 	}
 	
 	"UpgradeLevelContainer"
 	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"UpgradeLevelContainer"
-		"xpos"			"20"
-		"ypos"			"0"
-		"wide"			"640"
-		"tall"			"480"
-		"visible"		"0"
+		"ControlName"		"EditablePanel"
+		"fieldName"			"UpgradeLevelContainer"
+		"xpos"				"20"
+		"ypos"				"0"
+		"wide"				"640"
+		"tall"				"480"
+		"visible"			"0"
 					
 		"UpgradeProgressTrack"
 		{
@@ -167,7 +167,7 @@
 		"fieldName"			"VictorySplash"
 		"xpos"				"0"
 		"ypos"				"0"
-		//"zpos"				"102"
+		//"zpos"			"102"
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"
@@ -208,7 +208,7 @@
 		
 		"Background"
 		{
-			"ControlName"		"ScalableImagePanel"
+			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"Background"
 			"xpos"			"c-150"
 			"ypos"			"400"
@@ -223,8 +223,8 @@
 			"src_corner_height"	"22"				// pixels inside the image
 			"src_corner_width"	"22"
 		
-			"draw_corner_width"	"5"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"5"	
+			"draw_corner_width"	 "5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" "5"	
 		}
 	
 		"ServerChangeLabel"
@@ -243,5 +243,4 @@
 			"fgcolor"		"White"		
 		}
 	}
-	
 }

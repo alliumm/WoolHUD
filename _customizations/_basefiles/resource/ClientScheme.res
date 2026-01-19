@@ -24,98 +24,70 @@ Scheme
 		
 		//"Control Name"		"R   G   B   Transparency"	//Description
 		
-		"BackpackBGColor"	"52 50 52 255"
-		"MainMenuBGColor"	"36 34 36 180"
+		"BackpackBGColor"		"52 50 52 255"
+		"MainMenuBGColor"		"36 34 36 180"
 		"TransparentBGColor"	"42 40 42 120"
-		
-		"Damage"                        "255 187 0 255"		//Damage display
-
-		"Ammo"                          "0 255 255 255"		//Current Clip
-		"AmmoReserve"                   "0 0 255 255"		//Total reserve
-
-		"Health"			"0 255 0 215"		//Normal health color
-		
-		"Buff"				"153 225 153 255" 		//Boosted health color
-		"SpecBuff"			"17 174 54 255"			//Darker color for SpecHUD
-		
-		"LowHP"				"255 0 0 255"			//Low health and ammo warning color
-		"RedHP"				"255 125 125 255"			//"Low Ammo/HP" animation flash color
-		"LowAmmo"			"255 0 255 255"			//Low health and ammo warning color
-		"RedAmmo"			"255 120 255 255"			//"Low Ammo/HP" animation flash color
-		   "LowT"			"184 54 54 214"			//Red animation for underline
-		   "LowS"			"184 54 54 255"			//Flash color for underline
-			
-		"UberLabel"			"255 0 100 255" 		//Uber ready color %
-		"UberMeter"			"255 0 100 255" 		//Uber ready color for meter	
-		"UberLabelFlash"		"80 0 30 255"			//Uber ready flash color %
-		"UberMeterFlash"		"80 0 30 100"			//Uber ready flash color meter	
-
-		"Select"			"25 225 74 255"			//This is the hover color for buttons
-		
-
+		"Damage"                "255 187 0 255"	//Damage display
+		"Ammo"                  "0 255 255 255"	//Current Clip
+		"AmmoReserve"           "0 0 255 255"		//Total reserve
+		"Health"				"0 255 0 215"		//Normal health color
+		"Buff"					"153 225 153 255" 	//Boosted health color
+		"SpecBuff"				"17 174 54 255"	//Darker color for SpecHUD
+		"LowHP"					"255 0 0 255"		//Low health and ammo warning color
+		"RedHP"					"255 125 125 255"	//"Low Ammo/HP" animation flash color
+		"LowAmmo"				"255 0 255 255"	//Low health and ammo warning color
+		"RedAmmo"				"255 120 255 255"	//"Low Ammo/HP" animation flash color
+		"LowT"					"184 54 54 214"	//Red animation for underline
+		"LowS"					"184 54 54 255"	//Flash color for underline
+		"UberLabel"				"255 0 100 255" 	//Uber ready color %
+		"UberMeter"				"255 0 100 255" 	//Uber ready color for meter	
+		"UberLabelFlash"		"80 0 30 255"		//Uber ready flash color %
+		"UberMeterFlash"		"80 0 30 100"		//Uber ready flash color meter	
+		"Select"				"25 225 74 255"	//This is the hover color for buttons
 
 		//More options, partially for custom options like the line-effect or the colorful main-menu
 		
-		"EngineerPanelBG"	"0 0 0 107"				// change this to "0 0 0 0" to remove the BG for the not-built panel
-		
+		"EngineerPanelBG"	"0 0 0 107"			// change this to "0 0 0 0" to remove the BG for the not-built panel
 		"Name"				"255 255 255 175"		//TargetID name label color
 		"Time"				"255 255 255 175"		//Respawn and Map time
-		
 		"MvMBG"				"225 37 205 255"		//MvM panels purple color
-		
-		"MenuBGColor"			"0 124 88 255"			//Color option for alt main menu
-		
-		"Underline"			"133 133 133 255"			//Blank base color for HP and ammo underline
-		
+		"MenuBGColor"		"0 124 88 255"			//Color option for alt main menu
+		"Underline"			"133 133 133 255"		//Blank base color for HP and ammo underline
 		"HudBG"				"0 0 0 214"			//Black HUD background
-		"HudShadow"			"0 0 0 57"			//Used for shadows on various numbers
-										//make last value 0 to remove them, or 255 to make them black
+		"HudShadow"			"0 0 0 57"				//Used for shadows on various numbers
+													 //make last value 0 to remove them, or 255 to make them black
 
 		"HudBGC"			"21 207 100 255" 		//General color background
-		"HudBGCT"			"25 225 74 175"			//General color background transparent
-		
-		
-		
+		"HudBGCT"			"25 225 74 175"		//General color background transparent
+
 		// Base HUD Colors		
 		
-		"ButtonBG"			"88 88 88 255"					//Standard button color
-		"ButtonArmed"		"74 74 74 255"					//Armed color
+		"ButtonBG"			"88 88 88 255"			//Standard button color
+		"ButtonArmed"		"74 74 74 255"			//Armed color
 		"ButtonSelect"		"27 27 27 255"
-		
-		"yAHUDBlue" 			"40 140 254 255"			//Logo hover color
-		
-		"GrayBG"			"57 57 57 255"				//MenuBG
-		"GrayBGDark"			"42 42 42 255"				//Darker MenuBG
-		"GrayBGDarkest"			"27 27 27 255"	
-		"GrayText"			"110 110 110 255"			//Text for some menu entries
+		"yAHUDBlue" 		"40 140 254 255"		//Logo hover color
+		"GrayBG"			"57 57 57 255"			//MenuBG
+		"GrayBGDark"		"42 42 42 255"			//Darker MenuBG
+		"GrayBGDarkest"		"27 27 27 255"	
+		"GrayText"			"110 110 110 255"		//Text for some menu entries
 		"FrameGray"			"142 142 142 255"
 		"BlackBorder"		"17 17 17 255"
-		
-		"Green"				"25 255 74 255" 			//Green on black BG		
+		"Green"				"25 255 74 255" 		//Green on black BG		
 		"GreenST"			"25 225 74 175"
 		"GreenT"			"25 225 74 105"
-		
-		"GreenDark"			"0 124 88 255"				//Green for white highlights
-		
-		
-		
-		"White"				"255 255 255 175"			//Transparent white for text
-		"WhiteS"			"225 225 225 255"			//Matching solid white
-		
-		"RedTeam" 			"184 56 59 175"				//Team fill colors transparent
-		"BlueTeam"			"78 123 152 175"			//
-		"RedTeamS" 			"184 56 59 255"				//
-		"BlueTeamS"			"75 110 140 255"			//Team fill colors solid
-		
+		"GreenDark"			"0 124 88 255"			//Green for white highlights
+		"White"				"255 255 255 175"		//Transparent white for text
+		"WhiteS"			"225 225 225 255"		//Matching solid white
+		"RedTeam" 			"184 56 59 175"		//Team fill colors transparent
+		"BlueTeam"			"78 123 152 175"
+		"RedTeamS" 			"184 56 59 255"
+		"BlueTeamS"			"75 110 140 255"		//Team fill colors solid
 		"LightGray"			"212 212 212 255"
 		"Metal"				"137 159 179 255"
 		"Gray"				"165 165 165 255"		
-		
-		"WhiteBG"			"255 255 255 170"			//Background used for White Box Version
-		
-		"WhiteBGT"			"255 255 255 85"			//Used for demo stick counter
-		"HudBGT"			"0 0 0 100"				//
-		
+		"WhiteBG"			"255 255 255 170"		//Background used for White Box Version
+		"WhiteBGT"			"255 255 255 85"		//Used for demo stick counter
+		"HudBGT"			"0 0 0 100"
 		
 		// Base Colors TF2
 
@@ -306,10 +278,9 @@ Scheme
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
 
-	
 	// Color Backup and Garm3n Colors
 	
-		"Garm3nCharge"			"42 79 134 255"			//Demoman charge animation		
+		"Garm3nCharge"			"42 79 134 255"	//Demoman charge animation		
 
 		"Garm3nxHair"			"255 255 0 255"
 		
@@ -513,8 +484,8 @@ Scheme
 		HudCaptureProgressBar.InActive	"HudProgressBarInActive"
 
 		// scheme-specific colors
-		"FgColor"		"WhiteS"
-		"BgColor"		"TransparentBlack"
+		"FgColor"			"WhiteS"
+		"BgColor"			"TransparentBlack"
 
 		"ViewportBG"		"Blank"
 		"TeamSpec"			"204 204 204 255"
@@ -526,9 +497,9 @@ Scheme
 		"HudIcon_Red"		"160 0 0 255"
 
 		// CHudMenu
-		"ItemColor"		"255 167 42 200"	// default 255 167 42 255
-		"MenuColor"		"233 208 173 255"
-		"MenuBoxBg"		"0 0 0 100"
+		"ItemColor"			"255 167 42 200"	// default 255 167 42 255
+		"MenuColor"			"233 208 173 255"
+		"MenuBoxBg"			"0 0 0 100"
 
 		// weapon selection colors
 		"SelectionNumberFg"		"251 235 202 255"
@@ -544,13 +515,13 @@ Scheme
 		"ProgressBarFg"			"255 30 13 255"
 
 		// Top-left corner of the menu on the main screen
-		"Main.Menu.X"		"32"
-		"Main.Menu.Y"		"248"
+		"Main.Menu.X"			"32"
+		"Main.Menu.Y"			"248"
 
 		// Blank space to leave beneath the menu on the main screen
-		"Main.BottomBorder"	"32"
+		"Main.BottomBorder"		"32"
 		
-		"VguiScreenCursor"			"255 208 64 255"
+		"VguiScreenCursor"		"255 208 64 255"
 	}
 
 	//////////////////////// BITMAP FONT FILES /////////////////////////////
@@ -561,7 +532,6 @@ Scheme
 		// UI buttons, custom font, (256x64)
 		"Buttons"		"materials/vgui/fonts/buttons_32.vbf"
 	}
-
 
 	//
 	//////////////////////// FONTS /////////////////////////////
@@ -706,6 +676,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+
 		"DefaultSmall"
 		{
 			"1"
@@ -756,7 +727,6 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
 
 		"DefaultVerySmall"
 		{
@@ -862,6 +832,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+
 		CenterPrintText
 		{
 			// note that this scales with the screen resolution
@@ -967,7 +938,7 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}		
+		}
 		
 		"MediumNumbers20Shadow"
 		{
@@ -979,7 +950,8 @@ Scheme
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
-		}		
+		}
+
 		"MediumNumbers16Shadow"
 		{
 			"1"
@@ -990,7 +962,8 @@ Scheme
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
-		}	
+		}
+
 		"MediumNumbers14Shadow"
 		{
 			"1"
@@ -1001,7 +974,8 @@ Scheme
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
-		}	
+		}
+
 		"MediumNumbers12Shadow"
 		{
 			"1"
@@ -1012,7 +986,8 @@ Scheme
 				"antialias" 	"1"
 				"dropshadow"	"1"
 			}
-		}		
+		}	
+
 		"MediumNumbers10Shadow"
 		{
 			"1"
@@ -1036,6 +1011,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+
 		"LightNumbers19"
 		{
 			"1"
@@ -1046,6 +1022,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+
 		"LightNumbers19Shadow"
 		{
 			"1"
@@ -1057,6 +1034,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+
 		"LightNumbers18Shadow"
 		{
 			"1"
@@ -1068,7 +1046,6 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
-		
 		
 		"Heavy59"
 		{
@@ -1535,9 +1512,6 @@ Scheme
 			}
 		}
 
-		
-		
-		
 		"Bold59"
 		{
 			"1"
@@ -2049,9 +2023,6 @@ Scheme
 			}
 		}
 		
-		
-		
-		
 		"Medium68"
 		{
 			"1"
@@ -2483,6 +2454,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+
 		"Medium21Outline"
 		{
 			"1"
@@ -2494,6 +2466,7 @@ Scheme
 				"outline" "1"
 			}
 		}
+
 		"Medium21Shadow"
 		{
 			"1"
@@ -2540,8 +2513,6 @@ Scheme
 		}
 
 	//Font changed for lower resolution	
-		
-		
 		
 		"Medium16"
 		{
@@ -3292,9 +3263,9 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
 
@@ -3304,7 +3275,7 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"8"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
@@ -3315,9 +3286,9 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"8"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
 		
@@ -3327,7 +3298,7 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"7"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
@@ -3338,9 +3309,9 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"7"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
 		
@@ -3350,7 +3321,7 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"6"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
@@ -3361,9 +3332,9 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"6"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
 		
@@ -3373,129 +3344,141 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"28"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
+		
 		"Light26"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"26"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
-		}		
+		}
+
 		"Light24"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"24"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
-		}		
+		}
+
 		"Light22"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"22"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
+
 		"Light20"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"20"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
+
 		"Light19"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"19"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
+
 		"Light19Shadow"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"19"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
+
 		"Light18"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"18"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
+
 		"Light17"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"17"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
+
 		"Light16"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"16"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
+
 		"Light16Shadow"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"16"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
+
 		"Light15"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"15"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
+
 		"Light14"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
 				"tall"		"14"
-				"additive"		"0"
+				"additive"	"0"
 				"antialias"	"1"
 			}
 		}
@@ -3510,6 +3493,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+
 		"CircleBGSmall"
 		{
 			"1"
@@ -3520,6 +3504,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+
 		"CircleBGSmaller"
 		{
 			"1"
@@ -3530,6 +3515,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+
 		"CircleBGSmallest"
 		{
 			"1"
@@ -3590,6 +3576,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontGiantBold"
 		{
 			"1"
@@ -3622,6 +3609,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontMediumBig"
 		{
 			"1"
@@ -3631,7 +3619,8 @@ Scheme
 				"additive"	"0"
 				"antialias" "1"
 			}
-		}	
+		}
+
 		"HudFontMediumBigBold"
 		{
 			"1"
@@ -3641,7 +3630,8 @@ Scheme
 				"additive"	"0"
 				"antialias" "1"
 			}
-		}		
+		}
+
 		"HudFontMedium"
 		{
 			"1"
@@ -3652,6 +3642,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontMediumSecondary"
 		{
 			"1"
@@ -3662,6 +3653,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontMediumBold"
 		{
 			"1"
@@ -3672,6 +3664,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontMediumSmallBold"
 		{
 			"1"
@@ -3682,6 +3675,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontMediumSmall"
 		{
 			"1"
@@ -3692,6 +3686,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontMediumSmallSecondary"
 		{
 			"1"
@@ -3702,6 +3697,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontSmall"
 		{
 			"1"
@@ -3709,9 +3705,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"14"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
-		}	
+		}
+
 		"HudFontSmallishBold"
 		{
 			"1"
@@ -3722,6 +3719,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontSmallBold"
 		{
 			"1"
@@ -3732,6 +3730,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudFontSmallBoldShadow"
 		{
 			"1"
@@ -3740,9 +3739,10 @@ Scheme
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
+
 		"HudFontSmallest"
 		{
 			"1"
@@ -3750,9 +3750,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"10"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		"HudFontSmallestShadow"
 		{
 			"1"
@@ -3760,10 +3761,11 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"10"
 				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
+				"antialias" "1"
+				"dropshadow" "1"
 			}
 		}
+
 		"HudFontSmallestBold"
 		{
 			"1"
@@ -3774,6 +3776,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"PerformanceModeSmall"
 		{
 			"1"
@@ -3784,6 +3787,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"StorePromotionsTitle"
 		{
 			"1"
@@ -3794,6 +3798,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"FontCartPrice"
 		{
 			"1"
@@ -3804,6 +3809,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"FontStorePrice"
 		{
 			"1"
@@ -3814,6 +3820,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"FontStoreOriginalPrice"
 		{
 			"1"
@@ -3824,6 +3831,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"FontStorePriceSmall"
 		{
 			"1"
@@ -3834,6 +3842,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"FontStorePromotion"
 		{
 			"1"
@@ -3844,6 +3853,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"TextTooltipFont"
 		{
 			"1"
@@ -3854,6 +3864,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		GameUIButtons
 		{
 			"1"	//[$X360]
@@ -3866,6 +3877,7 @@ Scheme
 				"scaley_lodef"		"0.75"
 			}
 		}
+
 		GameUIButtonsSmall
 		{
 			"1"	[$X360]
@@ -3876,6 +3888,7 @@ Scheme
 				"scaley"	"0.5"
 			}
 		}
+
 		GameUIButtonsSmallest
 		{
 			"1"	[$X360]
@@ -3886,6 +3899,7 @@ Scheme
 				"scaley"	"0.4"
 			}
 		}
+
 		"GameUIButtonText"
 		{
 			"1"
@@ -3896,6 +3910,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudClassHealth"
 		{
 			"1"
@@ -3906,6 +3921,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"SpectatorKeyHints"
 		{
 			"1"
@@ -3916,6 +3932,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ClockSubText"
 		{
 			"1"
@@ -3926,6 +3943,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ClockSubTextSuddenDeath"
 		{
 			"1"
@@ -3936,6 +3954,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ClockSubTextTiny"
 		{
 			"1"
@@ -3946,41 +3965,43 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"HudSelectionText"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"16"
-				"antialias" 	"1"
+				"antialias" "1"
 				"additive"	"1"
 			}
 			"2"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"16"	
-				"antialias" 	"1"
+				"antialias" "1"
 				"additive"	"1"
 			}
 			"3"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"18"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 			"4"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"20"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 			"5"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"22"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		DebugOverlay
 		{
 			"1"	[$WIN32]
@@ -3988,16 +4009,17 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"14"
 				"outline"	"1"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 			"1"	[$X360]
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"18"
 				"outline"	"1"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
-		}		
+		}
+
 		TFTypeDeath
 		{
 			"1"
@@ -4006,7 +4028,7 @@ Scheme
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
 		
@@ -4018,9 +4040,10 @@ Scheme
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"1"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		"BetaFont"
 		{
 			"1"
@@ -4049,6 +4072,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"CloseCaption_Normal"
 		{
 			"1"
@@ -4056,9 +4080,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"20"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
+
 		"CloseCaption_Italic"
 		{
 			"1"
@@ -4067,9 +4092,10 @@ Scheme
 				"tall"		"20"
 				"antialias"	"1"
 				"italic"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
+
 		"CloseCaption_Bold"
 		{
 			"1"
@@ -4077,9 +4103,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"20"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
+
 		"CloseCaption_BoldItalic"
 		{
 			"1"
@@ -4088,9 +4115,10 @@ Scheme
 				"tall"		"20"
 				"antialias"	"1"
 				"italic"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
+
 		"CloseCaption_Small"
 		{
 			"1"
@@ -4098,9 +4126,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"16"
 				"antialias"	"1"
-				"dropshadow"	"1"
+				"dropshadow" "1"
 			}
 		}
+
 		// this is the symbol font
 		"MarlettSmall"
 		{
@@ -4113,6 +4142,7 @@ Scheme
 				"range"		"0x0000 0x007F"
 			}
 		}
+
 		"Marlett"
 		{
 			"1"
@@ -4124,6 +4154,7 @@ Scheme
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
+
 		"MenuMainTitle"
 		{
 			"1"
@@ -4133,16 +4164,18 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"MenuClassBuckets"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"12"
-				"tall_lodef"	"14"
+				"tall_lodef" "14"
 				"antialias" "1"
 			}
 		}
+
 		"MenuKeys"
 		{
 			"1"
@@ -4160,7 +4193,7 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"10"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}		
 		
@@ -4170,20 +4203,22 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"28"
-				"antialias"		"1" 
-				"custom"		"1" [$OSX]
+				"antialias"	"1" 
+				"custom"	"1" [$OSX]
 			}
 		}
+
 		"ChalkboardTitleBig"
 		{
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"36"
-				"antialias"		"1"
-				"custom"		"1" [$OSX]
+				"antialias"	"1"
+				"custom"	"1" [$OSX]
 			}
 		}
+
 		"ChalkboardTitleMedium"
 		{
 			"1"
@@ -4191,9 +4226,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"22"
 				"antialias" "1"
-				"custom"		"1" [$OSX]
+				"custom"	"1" [$OSX]
 			}
 		}
+
 		"ChalkboardText"
 		{
 			"1"
@@ -4201,12 +4237,13 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"14" [!$OSX]
 				"tall"		"15" [$OSX]
-				"tall_lodef"	"32"
-				"tall_hidef"	"32"
-				"antialias"		"1"
-				"custom"		"1" [$OSX]
+				"tall_lodef" "32"
+				"tall_hidef" "32"
+				"antialias"	"1"
+				"custom"	"1" [$OSX]
 			}
 		}
+
 		"ScoreboardVerySmall"
 		{
 			"1"
@@ -4217,6 +4254,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ScoreboardSmall"
 		{
 			"1"
@@ -4227,6 +4265,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ScoreboardMediumSmall"
 		{
 			"1"
@@ -4237,6 +4276,7 @@ Scheme
 				"additive"	"0"
 			}
 		}
+
 		"ScoreboardMedium"
 		{
 			"1"
@@ -4247,6 +4287,7 @@ Scheme
 				"additive"	"0"
 			}
 		}
+
 		"ScoreboardTeamName"
 		{
 			"1"
@@ -4257,6 +4298,7 @@ Scheme
 				"additive"	"0"
 			}
 		}
+
 		"ScoreboardTeamNameLarge"
 		{
 			"1"
@@ -4314,6 +4356,7 @@ Scheme
 				"additive"	"0"
 			}
 		}
+
 		"MatchSummaryStatsAndMedals"
 		{
 			"1"
@@ -4325,6 +4368,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"MatchSummaryWinner"
 		{
 			"1"
@@ -4336,6 +4380,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"CompMatchStartTeamNames"
 		{
 			"1"
@@ -4358,6 +4403,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ControlPointTimerSmaller"
 		{
 			"1"
@@ -4386,35 +4432,35 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"12"
-				"dropshadow"	"0"
+				"dropshadow" "0"
 				"antialias"	"1"
 			}
 			"2"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"14"
-				"dropshadow"	"0"
+				"dropshadow" "0"
 				"antialias"	"1"
 			}
 			"3"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"14"
-				"dropshadow"	"0"
+				"dropshadow" "0"
 				"antialias"	"1"
 			}
 			"4"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"20"
-				"dropshadow"	"0"
+				"dropshadow" "0"
 				"antialias"	"1"
 			}
 			"5"
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"20"
-				"dropshadow"	"0"
+				"dropshadow" "0"
 				"antialias"	"1"
 			}
 		}
@@ -4435,7 +4481,7 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
-				"antialias"		"1"
+				"antialias"	"1"
 			}
 		}
 
@@ -4445,8 +4491,8 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
-				"range" 		"0x0000 0x00FF"
-				"antialias"		"1"
+				"range" 	"0x0000 0x00FF"
+				"antialias"	"1"
 			}
 		}	
 		
@@ -4456,9 +4502,10 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"14"
-				"antialias"		"1"
+				"antialias"	"1"
 			}
-		}			
+		}
+
 		CapPlayerFont
 		{
 			"1"
@@ -4466,9 +4513,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
 				"TextColor"	"Black"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		CapPlayerFontSmall
 		{
 			"1"
@@ -4476,7 +4524,7 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
 				"TextColor"	"Black"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
 
@@ -4487,9 +4535,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
 				"additive"	"1"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
-		}		
+		}
+
 		TFFontMedium
 		{
 			"1"
@@ -4497,9 +4546,9 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
-		}		
+		}
 		
 		InstructionalText
 		{
@@ -4509,7 +4558,7 @@ Scheme
 				"tall"		"9"  [!$OSX]
 				"tall"		"9"  [$OSX]
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}		
 		
@@ -4519,10 +4568,11 @@ Scheme
 			{
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"32"
-				"tall_lodef"		"28"
+				"tall_lodef" "28"
 				"antialias" "1"
 			}
 		}
+
 		MatchmakingDialogSessionOptionsTitle
 		{
 			"1"
@@ -4532,6 +4582,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		MatchmakingDialogMenuLarge
 		{
 			"1"
@@ -4541,6 +4592,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		MatchmakingDialogMenuBrowserHostname
 		{
 			"1"			// brower item hostname
@@ -4550,6 +4602,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		MatchmakingDialogMenuBrowserDetails
 		{
 			"1"			// browser item players and map name
@@ -4558,7 +4611,8 @@ Scheme
 				"tall"		"18"
 				"antialias" "1"
 			}
-		}		
+		}
+
 		MatchmakingDialogMenuMedium
 		{
 			"1"
@@ -4568,6 +4622,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		MatchmakingDialogMenuMediumSmall
 		{
 			"1"
@@ -4577,6 +4632,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		MatchmakingDialogMenuSmall
 		{
 			"1"
@@ -4586,6 +4642,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		MatchmakingDialogMenuSmallest
 		{
 			"1"
@@ -4595,6 +4652,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		RankingDialogHeaders
 		{
 			"1"
@@ -4615,6 +4673,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"TeamMenu"
 		{
 			"1"
@@ -4622,9 +4681,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"10"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
-		}		
+		}
+
 		"IntroMenuCaption"
 		{
 			"1"
@@ -4632,9 +4692,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"18"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
-		}			
+		}
+
 		"AchievementNotification"
 		{
 			"1"
@@ -4644,6 +4705,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ImportToolSmallestBold"
 		{
 			"1"
@@ -4652,9 +4714,10 @@ Scheme
 				"tall"		"10"
 				"weight"	"600"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		"ImportToolSmallest"
 		{
 			"1"
@@ -4663,9 +4726,10 @@ Scheme
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		"SpectatorVerySmall"
 		{
 			"1"
@@ -4677,6 +4741,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
 		"DefaultVerySmallFallBack"
 		{
@@ -4710,6 +4775,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ItemFontNameSmall"
 		{
 			"1"
@@ -4720,6 +4786,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ItemFontNameLarge"
 		{
 			"1"
@@ -4730,6 +4797,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ItemFontAttribSmallest"
 		{
 			"1"
@@ -4737,9 +4805,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias""1"
 			}
 		}
+
 		ItemFontAttribSmallv2
 		{
 			"1"
@@ -4749,6 +4818,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ItemFontAttribSmall"
 		{
 			"1"
@@ -4756,9 +4826,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		"ItemFontAttribLarge"
 		{
 			"1"
@@ -4766,9 +4837,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"10"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
-		}	
+		}
+
 		"ItemFontAttribLarger"
 		{
 			"1"
@@ -4776,7 +4848,7 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"14"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
 		
@@ -4787,9 +4859,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"10"
 				"additive"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		"AchievementTracker_NameGlow"
 		{
 			"1"
@@ -4798,10 +4871,11 @@ Scheme
 				"tall"		"10"
 				"blur"		"3"
 				"additive"	"1"
-				"antialias" 	"1"
+				"antialias" "1"
 				"custom"	"1"
 			}
 		}
+
 		"AchievementTracker_Desc"
 		{
 			"1"
@@ -4809,7 +4883,7 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"10"
 				"additive"	"1"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
 		
@@ -4821,9 +4895,10 @@ Scheme
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		"QuestObjectiveTracker_DescGlow"
 		{
 			"1"
@@ -4831,9 +4906,10 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"7"
 				"weight"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
+
 		"QuestObjectiveTracker_DescBlur"
 		{
 			"1"
@@ -4843,10 +4919,11 @@ Scheme
 				"weight"	"0"
 				"blur"		"3"
 				"additive"	"1"
-				"antialias" 	"1"
+				"antialias" "1"
 				"custom"	"1"
 			}
 		}
+
 		"ItemTrackerScore_InGame"
 		{
 			"1"
@@ -4854,7 +4931,7 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"7"
 				"weight"	"0"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 		}
 
@@ -4939,7 +5016,7 @@ Scheme
 				"name"		"TF2 Professor"
 				"tall"		"20"
 				"antialias" "1"
-				"custom"		"1" [$OSX]
+				"custom"	"1" [$OSX]
 				"weight"	"500"
 			}
 		}
@@ -5087,6 +5164,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"AdFont_PurchaseButton"
 		{
 			"1"
@@ -5123,10 +5201,10 @@ Scheme
 			}
 		}
 		
-		
 		//
 		//////////////////// REPLAY FONTS //////////////////////////////
 		//
+
 		"ReplayVerySmall"
 		{
 			"1"
@@ -5160,6 +5238,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+
 		"ReplayBrowserSmallest"
 		{
 			"1"
@@ -5170,6 +5249,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+
 		"ReplaySmaller"
 		{
 			"1"
@@ -5209,6 +5289,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ReplayMediumSmall"
 		{
 			"1"
@@ -5219,6 +5300,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ReplayMedium"
 		{
 			"1"
@@ -5229,6 +5311,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ReplayMediumBig"
 		{
 			"1"
@@ -5239,6 +5322,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ReplayBrowserTab"
 		{
 			"1"
@@ -5249,6 +5333,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"ReplayLarger"
 		{
 			"1"
@@ -5274,6 +5359,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		"EconFontMedium"
 		{
 			"1"
@@ -5284,6 +5370,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
 		ControllerHintText
 		{
 			"1"

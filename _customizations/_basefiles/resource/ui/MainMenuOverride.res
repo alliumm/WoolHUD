@@ -13,12 +13,13 @@
 		
 //		"bgcolor_override"	"0 0 0 240"
 		
-		"update_url"	"http://store.steampowered.com/news/?filter=updates&appids=440"
-		"blog_url"		"http://www.teamfortress.com/"
+		"update_url"		"http://store.steampowered.com/news/?filter=updates&appids=440"
+		"blog_url"			"http://www.teamfortress.com/"
 		
 		"button_x_offset"	"-300"				
 		"button_y"			"145"
-		"button_y_delta"		"2"
+		"button_y_delta"	"2"
+
 		"button_kv"
 		{
 			"xpos"			"0"		//0		
@@ -42,7 +43,7 @@
 				"tabPosition"	"0"
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
-				"font"		   "MainMenu"
+				"font"		   	"MainMenu"
 				"textAlignment"	"west"			
 				"dulltext"		"0"
 				"brighttext"	"0"
@@ -55,12 +56,12 @@
 				"paintbackground"	"0"
 
 				"FgColor" "255 255 255 255"
-	                "defaultFgColor_override" "255 255 255 255"
-				"armedFgColor_override" "Select"
+	            "defaultFgColor_override" 	"255 255 255 255"
+				"armedFgColor_override" 	"Select"
 				"depressedFgColor_override" "255 255 255 255"
 			
 				"image_drawcolor"	"0 0 0 0"
-				"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+				"image_armedcolor" 	"124 124 144 255" //"255 255 255 255"
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -103,7 +104,7 @@
 			"flash_lifelength_min"	".1"
 			"flash_lifelength_max"	".2"
 			
-			"curtain_anim_duration"		"4.0"
+			"curtain_anim_duration"	"4.0"
 			"curtain_open_time"		"2.8"
 			"flash_start_time"		"4.0"
 			
@@ -221,6 +222,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
+
 	"BlackBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -234,6 +236,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
+
 	"TFLogoImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -282,7 +285,8 @@
 		{
 			"visible"		"0"
 		}
-	}	
+	}
+
 	"TooltipPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -559,7 +563,6 @@
 		}		
 	}
 
-			
 	"Notifications_ShowButtonPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -1023,18 +1026,19 @@
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"Command"		"motd_hide"
+			"Command"			"motd_hide"
 			
 			"paintbackground"	"0"
 			
 			//"defaultFgColor_override" "235 226 202 255"
-			//"armedFgColor_override" "46 43 42 255"
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
+			//"armedFgColor_override" 	"46 43 42 255"
+			"defaultFgColor_override" 	"46 43 42 255"
+			"armedFgColor_override" 	"235 226 202 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"200 80 60 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1261,6 +1265,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1309,6 +1314,7 @@
 			
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1368,20 +1374,21 @@
 			"default"		"0"
 			"actionsignallevel"	"2"
 
-			"Command"		"noti_hide"
-			"navActivate"	"<QuickplayButton"
+			"Command"			"noti_hide"
+			"navActivate"		"<QuickplayButton"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
+			"defaultFgColor_override" 	"46 43 42 255"
+			"armedFgColor_override" 	"235 226 202 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"200 80 60 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1481,12 +1488,13 @@
 			"paintbackground"	"0"
 
 			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Select"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"Select"
 			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"		"0 0 0 0"
+			"image_armedcolor" 		"124 124 144 255" //	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1542,12 +1550,13 @@
 			"paintbackground"	"0"
 			
 			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Select"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"Select"
 			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"		"0 0 0 0"
+			"image_armedcolor" 		"124 124 144 255" //	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1603,12 +1612,13 @@
 			"paintbackground"	"0"
 			
 			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Select"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"Select"
 			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"		"0 0 0 0"
+			"image_armedcolor" 		"124 124 144 255" //	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1665,12 +1675,13 @@
 			"paintbackground"	"0"
 			
 			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Select"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"Select"
 			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"		"0 0 0 0"
+			"image_armedcolor" 		"124 124 144 255" //	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1727,12 +1738,13 @@
 			"paintbackground"	"0"
 			
 			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Select"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"Select"
 			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"		"0 0 0 0"
+			"image_armedcolor" 		"124 124 144 255" //	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1790,12 +1802,13 @@
 			"paintbackground"	"0"
 			
 			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Select"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"Select"
 			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"		"0 0 0 0"
+			"image_armedcolor" 		"124 124 144 255" //	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1852,12 +1865,13 @@
 			"paintbackground"	"0"
 			
 			"FgColor" "255 255 255 255"			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "Select"
+			"defaultFgColor_override" 	"255 255 255 255"
+			"armedFgColor_override" 	"Select"
 			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"0 0 0 0"
-			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+			"image_drawcolor"		"0 0 0 0"
+			"image_armedcolor" 		"124 124 144 255" //	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1918,6 +1932,7 @@
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 	}
+
 	"CreateLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -1957,16 +1972,17 @@
 		"default"		"1"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"command"		"showpromocodes"
+		"command"			"showpromocodes"
 		
 		"border_default"	"MainMenuButtonDefault"
 		"border_armed"		"MainMenuButtonArmed"
 		"paintbackground"	"0"
 		
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "206 192 115 255"
+		"defaultFgColor_override" 	"46 43 42 255"
+		"armedFgColor_override" 	"206 192 115 255"
 		"depressedFgColor_override" "46 43 42 255"
 	}
+
 	"FreeTrialPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -2010,6 +2026,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 		}
+
 		"UpgradeLabel2"
 		{
 			"ControlName"	"CExLabel"
@@ -2028,6 +2045,7 @@
 			"wrap"			"1"
 			"fgcolor"		"255 155 138 255"
 		}
+
 		"UpgradeLabel3"
 		{
 			"ControlName"	"CExLabel"
@@ -2121,7 +2139,6 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
 
-
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -2184,6 +2201,7 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		""
+
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -2218,6 +2236,7 @@
 			
 			"image_drawcolor"	"0 0 0 0"
 			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2246,6 +2265,7 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		"border"		""
+
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -2280,6 +2300,7 @@
 			
 			"image_drawcolor"	"0 0 0 0"
 			"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -2780,12 +2801,13 @@
 		"paintbackground"	"0"
 			
 		"FgColor" "255 255 255 255"			
-		"defaultFgColor_override" "255 255 255 255"
-		"armedFgColor_override" "Select"
+		"defaultFgColor_override" 	"255 255 255 255"
+		"armedFgColor_override" 	"Select"
 		"depressedFgColor_override" "255 255 255 255"
 			
-		"image_drawcolor"	"0 0 0 0"
-		"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+		"image_drawcolor"		"0 0 0 0"
+		"image_armedcolor" 		"124 124 144 255" //	"255 255 255 255"
+
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -2834,7 +2856,6 @@
 		"default"		"1"
 		"Command"		"OpenOptionsDialog"
 
-
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
@@ -2843,12 +2864,13 @@
 		"paintbackground"	"0"
 
 		"FgColor" "255 255 255 255"			
-		"defaultFgColor_override" "255 255 255 255"
-		"armedFgColor_override" "Select"
+		"defaultFgColor_override" 	"255 255 255 255"
+		"armedFgColor_override" 	"Select"
 		"depressedFgColor_override" "255 255 255 255"
 			
-		"image_drawcolor"	"0 0 0 0"
-		"image_armedcolor" "124 124 144 255" //	"255 255 255 255"
+		"image_drawcolor"		"0 0 0 0"
+		"image_armedcolor" 		"124 124 144 255" //	"255 255 255 255"
+
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"

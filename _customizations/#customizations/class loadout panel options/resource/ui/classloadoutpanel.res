@@ -13,9 +13,9 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"render_texture"	"0"
+		"render_texture""0"
 		"fov"			"30"
-		"allow_manip"		"1"
+		"allow_manip"	"1"
 
 		"model"
 		{
@@ -56,8 +56,8 @@
 
 	"RedButton"
 	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"RedButton"
+		"ControlName"		"CExImageButton"
+		"fieldName"			"RedButton"
 		"xpos"				"c28"
 		"ypos"				"c90"
 		"zpos"				"12"
@@ -74,17 +74,17 @@
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 0"
 
-		"defaultFgColor_override" "158 64 61 255"
-		"armedFgColor_override" "242 242 242 255"
-		"armedBgColor_override"	"158 64 61 255"
+		"defaultFgColor_override" 	"158 64 61 255"
+		"armedFgColor_override" 	"242 242 242 255"
+		"armedBgColor_override"		"158 64 61 255"
 		"depressedFgColor_override" "242 242 242 255"
 		"depressedBgColor_override"	"158 64 61 255"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"			"UI/buttonclick.wav"
+		"sound_released"			"UI/buttonclickrelease.wav"
 
-		"keyboardinputenabled"	"0"
-		"paintbackground"	"1"
+		"keyboardinputenabled"		"0"
+		"paintbackground"			"1"
 
 		"border_default"			""
 		"border_armed"				""
@@ -93,8 +93,8 @@
 
 	"BlueButton"
 	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"BlueButton"
+		"ControlName"		"CExImageButton"
+		"fieldName"			"BlueButton"
 		"xpos"				"c-56"
 		"ypos"				"c90"
 		"zpos"				"12"
@@ -111,17 +111,17 @@
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 1"
 
-		"defaultFgColor_override" "72 112 125 255"
-		"armedFgColor_override" "242 242 242 255"
-		"armedBgColor_override"	"72 112 125 255"
+		"defaultFgColor_override" 	"72 112 125 255"
+		"armedFgColor_override" 	"242 242 242 255"
+		"armedBgColor_override"		"72 112 125 255"
 		"depressedFgColor_override" "242 242 242 255"
 		"depressedBgColor_override"	"72 112 125 255"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"			"UI/buttonclick.wav"
+		"sound_released"			"UI/buttonclickrelease.wav"
 
-		"keyboardinputenabled"	"0"
-		"paintbackground"	"1"
+		"keyboardinputenabled"		"0"
+		"paintbackground"			"1"
 
 		"border_default"			""
 		"border_armed"				""

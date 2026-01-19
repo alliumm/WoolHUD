@@ -11,7 +11,7 @@
 	}
 	"DisguiseStatusLine"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"DisguiseStatusLine"
 		"xpos"			"c100"
 		"ypos"			"r53"
@@ -25,7 +25,7 @@
 	}
 	"DisguiseStatusBG"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"DisguiseStatusBG"
 		"xpos"			"c113"
 		"ypos"			"r68"
@@ -74,7 +74,7 @@
 	
 	"SpectatorGUIHealth"
 	{
-		"ControlName"		"EditablePanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
 		"xpos"			"c100"
 		"ypos"			"r45"
@@ -83,10 +83,10 @@
 		"visible"			"1"
 		"enabled"			"1"	
 		"HealthBonusPosAdj"	"10"
-		"HealthDeathWarning"	"0.49"
-		"TFFont"			"HudFontSmall"
+		"HealthDeathWarning" "0.49"
+		"TFFont"					"HudFontSmall"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
-		"TextColor"		"HudOffWhite"
+		"TextColor"					"HudOffWhite"
 	}	
 	
 }

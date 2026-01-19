@@ -1,6 +1,5 @@
 "resource/ui/itemselectionpanel.res"
 {
-
 	"PrevPageButton"
 	{
 		"labelText"		"&A"	//or &a depending on which backpack and loadout panel you use

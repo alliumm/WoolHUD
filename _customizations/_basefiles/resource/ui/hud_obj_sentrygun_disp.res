@@ -55,8 +55,8 @@
 		
 		"BlackBG"
 		{
-			"ControlName"			"ImagePanel"
-			"fieldName"				"BlackBG"
+			"ControlName"	"ImagePanel"
+			"fieldName"		"BlackBG"
 			"xpos"			"0"
 			"ypos"			"2"
 			"zpos"			"-10"		

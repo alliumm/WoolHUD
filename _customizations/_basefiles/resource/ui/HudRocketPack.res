@@ -1,4 +1,5 @@
 #base "huditemeffectmeter.res"
+
 "resource/ui/hudrocketpack.res"
 {
 	HudItemEffectMeter
@@ -26,26 +27,26 @@
 		"image"			"../hud/misc_ammo_area_horiz1_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz1_red"
-		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
+		"teambg_2_lodef" "../hud/misc_ammo_area_red_lodef"
 		"teambg_3"		"../hud/misc_ammo_area_horiz1_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+		"teambg_3_lodef" "../hud/misc_ammo_area_blue_lodef"				
 	}
 	
 	"ItemEffectMeterLabel"
 	{
-		"ControlName"			"CExLabel"
-		"fieldName"			"ItemEffectMeterLabel"
+		"ControlName"	"CExLabel"
+		"fieldName"		"ItemEffectMeterLabel"
 		"xpos"			"0"
 		"ypos"			"1"
 		"zpos"			"3"
 		"wide"			"118"
 		"tall"			"8"
-		"visible"				"1"
-		"enabled"				"1"
-		"labelText"			"#TF_RocketPack_Disabled"
-		"fgcolor_override" "Metal"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#TF_RocketPack_Disabled"
+		"fgcolor_override" 		"Metal"
 		"textAlignment"			"center"
-		"font"				"Regular9"
+		"font"					"Regular9"
 	}
 
 	"ItemEffectMeter"

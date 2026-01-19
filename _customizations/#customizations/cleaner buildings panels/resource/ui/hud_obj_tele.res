@@ -10,6 +10,7 @@
 			"enabled"		"0"
 		}
 	}
+	
 	"BuiltPanel"
 	{
 		"Icon_Upgrade_1"
@@ -17,16 +18,19 @@
 			"xpos"			"32"
 			"ypos"			"4"
 		}
+
 		"Icon_Upgrade_2"
 		{
 			"xpos"			"32"
 			"ypos"			"4"
 		}
+
 		"Icon_Upgrade_3"
 		{
 			"xpos"			"32"
 			"ypos"			"4"
 		}
+
 		"AlertTray"
 		{
 			"ControlName"	"CBuildingStatusAlertTray"
@@ -39,12 +43,14 @@
 			"enabled"		"1"	
 			"icon"			"obj_status_alert_background_tall"
 		}
+
 		"WrenchIcon"
 		{
 			"xpos"			"9999"
 			"visible"		"0"
 			"enabled"		"0"
 		}
+
 		"BuildingPanel"
 		{
 			"xpos"			"46"
@@ -54,6 +60,7 @@
 				"bgcolor_override"		"153 151 151 255"
 			}
 		}
+
 		"RunningPanel"
 		{
 			"xpos"			"46"
@@ -62,7 +69,7 @@
 			{
 				"Recharge"
 				{	
-					"bgcolor_override"		"153 151 151 255"
+					"bgcolor_override"	"153 151 151 255"
 				}	
 			}
 			

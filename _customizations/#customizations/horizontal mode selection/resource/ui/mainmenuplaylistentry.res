@@ -13,7 +13,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"proportionaltoparent"	"1"
-		"image"			""
+		"image"					""
 	}
 
 	"PlayListDropShadow"
@@ -27,9 +27,9 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
-		"border"		"PanelBorder"
+		"border"				"PanelBorder"
 		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"0"
+		"mouseinputenabled"		"0"
 	}
 
 	"BGColor"
@@ -44,7 +44,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"		"0 0 0 0"
 	}
 
 	"ToolTipHack"
@@ -59,7 +59,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"mouseinputenabled"	"1"
-		"eatmouseinput"	"0"
+		"eatmouseinput"		"0"
 	}
 
 	"ModeButton"
@@ -81,16 +81,16 @@
 		"brighttext"	"0"
 		"default"		"1"
 		"command"		"%button_command%"
-		"proportionaltoparent" "1"
-		"actionsignallevel"	"2"
-		"textinsety"		"0"
+		"proportionaltoparent" 		"1"
+		"actionsignallevel"			"2"
+		"textinsety"				"0"
 
-		"border_default"	"DarkBorderThick"
-		"border_armed"		"WhiteBorderThick"
-		"paintbackground"	"0"
+		"border_default"			"DarkBorderThick"
+		"border_armed"				"WhiteBorderThick"
+		"paintbackground"			"0"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"			"UI/buttonclick.wav"
+		"sound_released"			"UI/buttonclickrelease.wav"
 		
 		"defaultFgColor_override"	"0 0 0 0"
 		"armedFgColor_override"		"0 0 0 0"
@@ -108,8 +108,8 @@
 		"tall"			"f0"
 		"visible"		"0"
 		"enabled"		"1"
-		"mouseinputenabled"	"0"
-		"bgcolor_override"	"0 0 0 250"
+		"mouseinputenabled"		"0"
+		"bgcolor_override"		"0 0 0 250"
 		"proportionaltoparent"	"1"
 
 		"MatchmakingBanDurationLabel"
@@ -130,7 +130,7 @@
 			"autoResize"	"1"
 			"pinCorner"		"0"
 			"proportionaltoparent"	"1"
-			"paintbackground"	"0"
+			"paintbackground"		"0"
 		}
 	}
 

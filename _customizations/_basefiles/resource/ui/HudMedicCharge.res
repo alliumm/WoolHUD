@@ -21,6 +21,7 @@
 		"font"			"Regular14Shadow"
 		"fgcolor"		"White"
 	}
+	
 	"ChargeLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -42,6 +43,7 @@
 		"font"			"Heavy48Shadow"
 		"fgcolor"		"White"
 	}
+
 	"ChargeLabelShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -63,6 +65,7 @@
 		"font"			"Heavy48"
 		"fgcolor"		"HudShadow"
 	}
+
 	"YAHUDChargeBackground"	
 	{
 		"ControlName"	"ImagePanel"
@@ -79,6 +82,7 @@
 		"fillcolor"		"HudBG"
 		"PaintBackgroundType""0"
 	}
+
 	"ChargeLabelBG"
 	{
 		"ControlName"	"CExLabel"
@@ -95,6 +99,7 @@
 		"font"			"BlocksSharp64"
 		"fgcolor"		"Underline"
 	}
+
 	"ChargeLabelBG2"
 	{
 		"ControlName"	"CExLabel"
@@ -111,6 +116,7 @@
 		"font"			"BlocksSharp64"
 		"fgcolor"		"Underline"
 	}
+
 	"ChargeMeter"
 	{
 		"ControlName"	"ContinuousProgressBar"
@@ -126,11 +132,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"Left"
-		"bgcolor_override" "0 0 0 214"
-		"fgcolor_override" "White"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		"bgcolor_override" 	"0 0 0 214"
+		"fgcolor_override" 	"White"
+		"dulltext"			"0"
+		"brighttext"		"0"
 	}
+
 	"ResistIcon"
 	{
 		"ControlName"	"ImagePanel"
@@ -144,6 +151,7 @@
 		"image"			"../HUD/defense_buff_bullet_blue"
 		"scaleImage"	"1"
 	}
+
 	"IndividualChargesLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -165,6 +173,7 @@
 		"brighttext"	"0"
 		"font"			"Heavy48Shadow"
 	}
+
 	"ChargeMeter1"
 	{	
 		"ControlName"	"ContinuousProgressBar"
@@ -185,6 +194,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
+
 	"ChargeMeter2"
 	{	
 		"ControlName"	"ContinuousProgressBar"
@@ -205,6 +215,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
+
 	"ChargeMeter3"
 	{	
 		"ControlName"	"ContinuousProgressBar"
@@ -225,6 +236,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
+
 	"ChargeMeter4"
 	{	
 		"ControlName"	"ContinuousProgressBar"
@@ -245,6 +257,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
+
 	"ResistIconAnchor"
 	{
 		"ControlName"		"EditablePanel"
@@ -256,6 +269,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 	}
+
 	"ResistIcon"
 	{
 		"ControlName"		"ImagePanel"

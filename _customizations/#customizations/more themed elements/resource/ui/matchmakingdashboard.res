@@ -658,6 +658,9 @@
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"RoundedCorners"	"0"
+			"textinsety"		"0"
+			"textinsetx"		"0"
+			"use_proportional_insets"	"0"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"

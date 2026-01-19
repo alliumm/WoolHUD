@@ -47,6 +47,7 @@ Scheme
 
 		//More options, partially for custom options like the line-effect or the colorful main-menu
 		
+		"Transparent"		"0 0 0 0"
 		"EngineerPanelBG"	"0 0 0 107"			// change this to "0 0 0 0" to remove the BG for the not-built panel
 		"Name"				"255 255 255 175"		//TargetID name label color
 		"Time"				"255 255 255 175"		//Respawn and Map time
@@ -549,6 +550,17 @@ Scheme
 			{
 				"name"			"TF2Icons"
 				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+
+		"MediumIcons"
+		{
+			"1"
+			{
+				"name"			"TF2Icons"
+				"tall"			"20"
 				"additive"		"0"
 				"antialias"		"1"
 			}

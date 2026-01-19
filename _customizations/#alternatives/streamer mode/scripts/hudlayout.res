@@ -2,8 +2,8 @@
 {
     HudDeathNotice
 	{
-		"TeamBlue"		""
-		"TeamRed"		""
+		"TeamBlue"			""
+		"TeamRed"			""
 		"LocalPlayerColor"	""
 	}
 }

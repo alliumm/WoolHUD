@@ -1,5 +1,4 @@
 #base "sourceschemebase.res"
-#base "scheme/net_graph.res"
 
 Scheme
 {
@@ -15,7 +14,7 @@ Scheme
 		"HudBlack"				"0 0 0 200"
 		
 		"ahudBlue"				"72 112 125 255"
-		"ahudDarkerBlue"			"46 73 82 255"
+		"ahudDarkerBlue"		"46 73 82 255"
 		"ahudRed"				"158 64 61 255"
 		"ahudDarkRed"			"102 48 46 255"
 		
@@ -62,12 +61,13 @@ Scheme
 	    
 	    // background colors
 		"ControlBG"					"76 88 68 255"		// background color of controls
-		"ControlDarkBG"				"90 106 80 255"		// darker background color; used for background of scrollbars
+		"ControlDarkBG"				"90 106 80 255"	// darker background color; used for background of scrollbars
 		"WindowBG"					"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
 		"SelectionBG"				"90 84 75 255"		// background color of any selected text or menu item
 		"SelectionBG2"				"69 64 57 255"		// selection background in window w/o focus
 		"ListBG"					"39 36 34 255"		// background of server browser, buddy list, etc.
 	}
+
 	BaseSettings
 	{
 		// scheme-specific colors
@@ -131,7 +131,7 @@ Scheme
 		MainMenu.ArmedTextColor		"ahudWhite"
 		MainMenu.Inset				"32"
 		
-		Menu.TextInset					"6"
+		Menu.TextInset			"6"
 		Menu.FgColor			"ahudWhite"
 		Menu.BgColor			"HudBlack"
 		Menu.ArmedFgColor		"ahudBlack"
@@ -220,18 +220,18 @@ Scheme
 		TextEntry.OutOfFocusSelectedBgColor		"100 100 100 128"
 		TextEntry.FocusEdgeColor				"0 0 0 196"
 		
-		ToggleButton.SelectedTextColor		"ahudWhite"
+		ToggleButton.SelectedTextColor			"ahudWhite"
 		
-		Tooltip.TextColor		"ahudBlack"
-		Tooltip.BgColor			"ahudWhite"
+		Tooltip.TextColor			"ahudBlack"
+		Tooltip.BgColor				"ahudWhite"
 		
-		TreeView.BgColor		"HudBlack"
+		TreeView.BgColor			"HudBlack"
 		
 		WizardSubPanel.BgColor		"Blank"
 		
-		MainMenu.DepressedTextColor		"150 150 150 128"
-		MainMenu.MenuItemHeight			"25"
-		MainMenu.Backdrop				"0 0 0 200"
+		MainMenu.DepressedTextColor	"150 150 150 128"
+		MainMenu.MenuItemHeight		"25"
+		MainMenu.Backdrop			"0 0 0 200"
 		
 		Console.TextColor			"100 255 100 255"
 		Console.DevTextColor		"ahudWhite"
@@ -354,7 +354,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"480 599"
+				"yres"		"480 599"
 			}
 			"2"
 			{
@@ -362,7 +362,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"600 767"
+				"yres"		"600 767"
 			}
 			"3"
 			{
@@ -370,7 +370,7 @@ Scheme
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"768 1023"
+				"yres"		"768 1023"
 				"antialias"	"1"
 			}
 			"4"
@@ -379,7 +379,7 @@ Scheme
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1024 1199"
+				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
@@ -388,7 +388,7 @@ Scheme
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
+				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
 		}
@@ -398,8 +398,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"			"Arial" [!$OSX]
+				"name"			"Verdana Bold" [$OSX]
 				"weight"		"1500"
 				"tall"			"16" [!$OSX]
 				"tall"			"18" [$OSX]
@@ -411,8 +411,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"			"Arial" [!$OSX]
+				"name"			"Verdana Bold" [$OSX]
 				"weight"		"1500"
 				"tall"			"18" [!$OSX]
 				"tall"			"19" [$OSX]
@@ -424,8 +424,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
-				"name"		"Verdana" [$OSX]
+				"name"			"Arial" [!$OSX]
+				"name"			"Verdana" [$OSX]
 				"weight"		"1000"
 				"tall"			"14" [!$OSX]
 				"tall"			"12" [$OSX]

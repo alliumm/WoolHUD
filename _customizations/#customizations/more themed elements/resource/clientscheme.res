@@ -37,8 +37,8 @@ Scheme
 		Econ.Button.Border.Default							"ahudWhite"
 		Econ.Button.Border.Armed							"ahudWhite"
 
-		Border.Bright					"Blank"		// the lit side of a control
-		Border.Dark						"Black"		// the dark/unlit side of a control
+		Border.Bright					"Blank"			// the lit side of a control
+		Border.Dark						"Black"			// the dark/unlit side of a control
 		Border.Selection				"Gray"			// the additional border color for displaying the default/selected button
 
 		Button.TextColor				"ahudWhite"
@@ -239,8 +239,9 @@ Scheme
 		// Blank space to leave beneath the menu on the main screen
 		"Main.BottomBorder"	"32"
 
-		"VguiScreenCursor"			"255 208 64 255"
+		"VguiScreenCursor"	"255 208 64 255"
 	}
+
 	Colors
 	{
 		"ShadowBlack"			"7 7 7 255"
@@ -281,13 +282,14 @@ Scheme
 		"BarSniper"				"140 70 70 255"
 		"BarSpy"				"158 65 65 255"
 	}
+	
     Borders
     {
 		"TrainingBGArmedBorder"
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"	"190 190 190 255"
+			"color"					"190 190 190 255"
 			
 			"image"					"backpack_rect_mouseover_color"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -295,11 +297,13 @@ Scheme
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"
 		}
+
         HoAssBorder
 		{
 			"offset" "0 0"
 			"color"	"ahudBlack"
 		}
+
 		ahudMenuBorder
 		{
 			"inset" "0 0 0 0"
@@ -332,6 +336,7 @@ Scheme
 				}
 			}
 		}
+
 		ahudPanelBorder
 		{
 			"inset" "0 0 0 0"
@@ -371,6 +376,7 @@ Scheme
 				}
 			}
 		}
+
 		MainMenuBGBorder
 		{
 			"bordertype"			"scalable_image"
@@ -382,6 +388,7 @@ Scheme
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"
 		}
+
 		ReplayDefaultBorder
 		{
 			"bordertype"			"scalable_image"
@@ -393,6 +400,7 @@ Scheme
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"
 		}
+
 		NotificationDefault
 		{
 			"bordertype"			"scalable_image"
@@ -404,6 +412,7 @@ Scheme
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"
 		}
+
 		LoadoutItemPopupBorder
 		{
 			"bordertype"			"scalable_image"
@@ -416,6 +425,7 @@ Scheme
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"
 		}
+
 		OuterShadowBorder
 		{
 			"bordertype"			"scalable_image"
@@ -427,6 +437,7 @@ Scheme
 			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"8"
 		}
+
 		OuterShadowBorderThin
 		{
 			"bordertype"			"scalable_image"

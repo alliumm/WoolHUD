@@ -177,11 +177,13 @@
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"paintbackground"	"1"
 				"defaultBgColor_override"	"ahudBlack"
-				"armedBgColor_override"		"ahudDullWhite"
-				"depressedBgColor_override"	"ahudBlack"
+				"armedBgColor_override"		"ahudBlackLight"
+				"depressedBgColor_override"	"ahudBlackLight"
+			
 				"defaultFgColor_override"	"ahudWhite"
 				"armedFgColor_override" 	"ahudWhite"
 				"depressedFgColor_override" "ahudWhite"
+			
 				"border_default"			"NoBorder"
 				"border_armed"				"NoBorder"
 			}
@@ -296,11 +298,13 @@
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"paintbackground"	"1"
 				"defaultBgColor_override"	"ahudBlack"
-				"armedBgColor_override"		"ahudDullWhite"
-				"depressedBgColor_override"	"ahudDullWhite"
+				"armedBgColor_override"		"ahudBlackLight"
+				"depressedBgColor_override"	"ahudBlackLight"
+			
 				"defaultFgColor_override"	"ahudWhite"
 				"armedFgColor_override" 	"ahudWhite"
 				"depressedFgColor_override" "ahudWhite"
+			
 				"border_default"			"NoBorder"
 				"border_armed"				"NoBorder"
 			}		
@@ -371,11 +375,13 @@
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"paintbackground"	"1"
 				"defaultBgColor_override"	"ahudBlack"
-				"armedBgColor_override"		"ahudDullWhite"
-				"depressedBgColor_override"	"ahudDullWhite"
+				"armedBgColor_override"		"ahudBlackLight"
+				"depressedBgColor_override"	"ahudBlackLight"
+			
 				"defaultFgColor_override"	"ahudWhite"
 				"armedFgColor_override" 	"ahudWhite"
 				"depressedFgColor_override" "ahudWhite"
+			
 				"border_default"			"NoBorder"
 				"border_armed"				"NoBorder"
 			}
@@ -404,11 +410,13 @@
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"paintbackground"	"1"
 				"defaultBgColor_override"	"ahudBlack"
-				"armedBgColor_override"		"ahudDullWhite"
-				"depressedBgColor_override"	"ahudDullWhite"
+				"armedBgColor_override"		"ahudBlackLight"
+				"depressedBgColor_override"	"ahudBlackLight"
+			
 				"defaultFgColor_override"	"ahudWhite"
 				"armedFgColor_override" 	"ahudWhite"
 				"depressedFgColor_override" "ahudWhite"
+			
 				"border_default"			"NoBorder"
 				"border_armed"				"NoBorder"
 				
@@ -458,11 +466,13 @@
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"paintbackground"	"1"
 				"defaultBgColor_override"	"ahudBlack"
-				"armedBgColor_override"		"ahudDullWhite"
-				"depressedBgColor_override"	"ahudDullWhite"
+				"armedBgColor_override"		"ahudBlackLight"
+				"depressedBgColor_override"	"ahudBlackLight"
+			
 				"defaultFgColor_override"	"ahudWhite"
 				"armedFgColor_override" 	"ahudWhite"
 				"depressedFgColor_override" "ahudWhite"
+			
 				"border_default"			"NoBorder"
 				"border_armed"				"NoBorder"
 				
@@ -512,11 +522,13 @@
 				"sound_released"	"UI/buttonclickrelease.wav"
 				"paintbackground"	"1"
 				"defaultBgColor_override"	"ahudBlack"
-				"armedBgColor_override"		"ahudDullWhite"
-				"depressedBgColor_override"	"ahudDullWhite"
+				"armedBgColor_override"		"ahudBlackLight"
+				"depressedBgColor_override"	"ahudBlackLight"
+			
 				"defaultFgColor_override"	"ahudWhite"
 				"armedFgColor_override" 	"ahudWhite"
 				"depressedFgColor_override" "ahudWhite"
+			
 				"border_default"			"NoBorder"
 				"border_armed"				"NoBorder"
 				
@@ -565,11 +577,13 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"1"
 			"defaultBgColor_override"	"ahudBlack"
-			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"ahudBlack"
+			"armedBgColor_override"		"ahudBlackLight"
+			"depressedBgColor_override"	"ahudBlackLight"
+			
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override" 	"ahudWhite"
 			"depressedFgColor_override" "ahudWhite"
+			
 			"border_default"			"NoBorder"
 			"border_armed"				"NoBorder"
 		}
@@ -596,11 +610,13 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"1"
 			"defaultBgColor_override"	"ahudBlack"
-			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"ahudBlack"
+			"armedBgColor_override"		"ahudBlackLight"
+			"depressedBgColor_override"	"ahudBlackLight"
+			
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override" 	"ahudWhite"
 			"depressedFgColor_override" "ahudWhite"
+			
 			"border_default"			"NoBorder"
 			"border_armed"				"NoBorder"
 		}
@@ -627,11 +643,13 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"1"
 			"defaultBgColor_override"	"ahudBlack"
-			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"ahudBlack"
+			"armedBgColor_override"		"ahudBlackLight"
+			"depressedBgColor_override"	"ahudBlackLight"
+			
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override" 	"ahudWhite"
 			"depressedFgColor_override" "ahudWhite"
+			
 			"border_default"			"NoBorder"
 			"border_armed"				"NoBorder"
 		}		
@@ -658,8 +676,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"defaultBgColor_override"	"ahudBlack"
-			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"ahudBlack"
+			"armedBgColor_override"		"ahudBlackLight"
+			"depressedBgColor_override"	"ahudBlackLight"
 		}
 
 		"ViewLegalAgreementButton"
@@ -687,8 +705,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"defaultBgColor_override"	"ahudBlack"
-			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"ahudBlack"
+			"armedBgColor_override"		"ahudBlackLight"
+			"depressedBgColor_override"	"ahudBlackLight"
 			
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override" 	"ahudWhite"
@@ -723,8 +741,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"defaultBgColor_override"	"ahudBlack"
-			"armedBgColor_override"		"ahudDullWhite"
-			"depressedBgColor_override"	"ahudBlack"
+			"armedBgColor_override"		"ahudBlackLight"
+			"depressedBgColor_override"	"ahudBlackLight"
 			
 			"defaultFgColor_override"	"ahudWhite"
 			"armedFgColor_override" 	"ahudWhite"

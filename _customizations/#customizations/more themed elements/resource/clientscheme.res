@@ -5,10 +5,10 @@ Scheme
 		// vgui_controls color specifications
 		ReplayBrowser.BgColor								"ahudDarkGrey"
 		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"LightRed"
-		ReplayBrowser.Button.ArmedBgColor					"ahudDullWhite"
-		ReplayBrowser.Button.ArmedFgColor					"ahudBlack"
-		ReplayBrowser.Button.DepressedBgColor				"ahudDullWhite"
-		ReplayBrowser.Button.DepressedFgColor				"ahudBlack"
+		ReplayBrowser.Button.ArmedBgColor					"ahudBlackLight"
+		ReplayBrowser.Button.ArmedFgColor					"ahudWhite"
+		ReplayBrowser.Button.DepressedBgColor				"ahudBlack"
+		ReplayBrowser.Button.DepressedFgColor				"ahudBlackLight"
 		ReplayBrowser.CollectionTitle.FgColor				"LightRed"
 		ReplayBrowser.Warning.FgColor						"White"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor		"242 242 242 140"
@@ -17,41 +17,34 @@ Scheme
 
 		Replay.RenderDialog.BgColor							"ahudDarkGrey"
 
-		Econ.Dialog.BgColor									"Blank"
-		Econ.Button.BgColor									"ahudBlack"
-		Econ.Button.FgColor									"ahudDullWhite"
-		Econ.Button.ArmedBgColor							"ahudDullWhite"
-		//Econ.Button.ArmedFgColor							"ahudBlack"
-		Econ.Button.ArmedTextColor							"ahudWhite"
-		Econ.Button.DepressedBgColor						"ahudDullWhite"
-		Econ.Button.DepressedFgColor						"Black"
+		Econ.Dialog.BgColor						"Blank"
+		Econ.Button.BgColor						"ahudBlack"
+		Econ.Button.FgColor						"ahudBlackLight"
+		Econ.Button.ArmedBgColor				"ahudBlackLight"
+		Econ.Button.ArmedFgColor				"ahudWhite"
+		Econ.Button.DepressedBgColor			"ahudBlack"
+		Econ.Button.DepressedFgColor			"ahudBlackLight"
+		Econ.Button.PresetDefaultColorFg		"Select"
+		Econ.Button.PresetArmedColorFg			"Select"
+		Econ.Button.PresetDepressedColorFg		"Select"
+		Econ.Button.PresetDefaultColorBg		"ahudBlack"
+		Econ.Button.PresetArmedColorBg			"50 50 50 255"
+		Econ.Button.PresetDepressedColorBg		"ahudBlack"
+		Econ.Button.Border.Default				"ahudBlack"
+		Econ.Button.Border.Armed				"50 50 50 255"
 
-		Econ.Button.PresetDefaultColorFg					"Select"
-		Econ.Button.PresetArmedColorFg						"Select"
-		Econ.Button.PresetDepressedColorFg					"Select"
+		Border.Bright							"Blank"			// the lit side of a control
+		Border.Dark								"Blank"			// the dark/unlit side of a control
+		Border.Selection						"Blank"			// the additional border color for displaying the default/selected button
 
-		Econ.Button.PresetDefaultColorBg					"ahudBlack"
-		Econ.Button.PresetArmedColorBg						"100 100 100 255"
-		Econ.Button.PresetDepressedColorBg					"ahudDullWhite"
-
-		Econ.Button.Border.Default							"ahudWhite"
-		Econ.Button.Border.Armed							"ahudWhite"
-
-		Border.Bright					"Blank"			// the lit side of a control
-		Border.Dark						"Black"			// the dark/unlit side of a control
-		Border.Selection				"Gray"			// the additional border color for displaying the default/selected button
-
-		Button.TextColor				"ahudWhite"
-		Button.BgColor					"ahudBlack"
-		Button.ArmedTextColor			"ahudWhite"
-		Button.ArmedBgColor				"ahudDullWhite"
-		Button.ArmedFgColor				"ahudBlack"
-		Button.SelectedTextColor		"ahudWhite"
-		Button.SelectedBgColor			"ahudDullWhite"
-		Button.SelectedFgColor			"ahudBlack"
-		Button.DepressedTextColor		"Black"
-		Button.DepressedBgColor			"ahudDullWhite"
-		Button.DepressedFgColor			"ahudBlack"
+		Button.TextColor						"ahudWhite"
+		Button.BgColor							"ahudBlack"
+		Button.ArmedTextColor					"ahudWhite"
+		Button.ArmedBgColor						"ahudBlackLight"
+		Button.SelectedTextColor				"ahudWhite"
+		Button.SelectedBgColor					"ahudBlack"
+		Button.DepressedTextColor				"ahudWhite"
+		Button.DepressedBgColor					"ahudBlackLight"
 
 		CheckButton.TextColor			"ahudWhite"
 		CheckButton.SelectedTextColor	"ahudWhite"
@@ -89,7 +82,7 @@ Scheme
 		GraphPanel.FgColor				"Orange"
 		GraphPanel.BgColor				"TransparentBlack"
 
-		Label.TextDullColor				"TanDark"
+		Label.TextDullColor				"ahudBlackLight"
 		Label.TextColor					"ahudWhite"
 		Label.TextBrightColor			"ahudWhite"
 		Label.SelectedTextColor			"White"
@@ -171,7 +164,7 @@ Scheme
 		TextEntry.CursorColor		"Gray"
 		TextEntry.DisabledTextColor	"Gray"
 		TextEntry.DisabledBgColor	"Blank"
-		TextEntry.SelectedTextColor	"TanLight"
+		TextEntry.SelectedTextColor	"ahudWhite"
 		TextEntry.SelectedBgColor	"Gray"
 		TextEntry.OutOfFocusSelectedBgColor	"Blank"
 		TextEntry.FocusEdgeColor	"Blank"
@@ -269,6 +262,7 @@ Scheme
 		"ahudDarkerGrey"		"24 24 24 255"
 
 		"ahudBlack"				"20 20 20 255"
+		"ahudBlackLight"		"64 65 67 255"
 
 		"ahudPipBoy"			"0 225 0 255"
 

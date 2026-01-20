@@ -408,7 +408,7 @@
 			{	
 				"ControlName"	"CExLabel"
 				"fieldName"		"KillsLabel"
-				"font"			"Medium8"
+				"font"			"HudFontSmallest"
 				"xpos"			"15"
 				"ypos"			"12"
 				"wide"			"200"

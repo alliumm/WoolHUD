@@ -33,6 +33,26 @@
 		"paintbackground"	"1"
 		"border"		"ahudPanelBorder"
 		"bgcolor_override"	"ahudDarkGrey"
+
+		"ItemNameLabel"
+		{
+			"ControlName"			"CExLabel"
+			"fieldName"				"ItemNameLabel"
+			"font"					"Regular20"
+			"labelText"				"%itemname%"
+			"textAlignment"			"west"
+			"xpos"					"240"
+			"ypos"					"17"
+			"wide"					"230"
+			"tall"					"15"
+			"autoResize"			"0"
+			"skip_autoresize"		"1"
+			"pinCorner"				"0"
+			"visible"				"1"
+			"enabled"				"1"
+			"wrap"					"1"
+			"fgcolor_override"		"TanLight"
+		}
 		
 		// Background for the player model & item preview panels
 		"PreviewViewportBg"

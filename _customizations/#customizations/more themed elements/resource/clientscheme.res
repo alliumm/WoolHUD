@@ -26,11 +26,11 @@ Scheme
 		Econ.Button.DepressedBgColor						"ahudDullWhite"
 		Econ.Button.DepressedFgColor						"Black"
 
-		Econ.Button.PresetDefaultColorFg					"ahudWhite"
-		Econ.Button.PresetArmedColorFg						"ahudWhite"
-		Econ.Button.PresetDepressedColorFg					"ahudWhite"
+		Econ.Button.PresetDefaultColorFg					"Select"
+		Econ.Button.PresetArmedColorFg						"Select"
+		Econ.Button.PresetDepressedColorFg					"Select"
 
-		Econ.Button.PresetDefaultColorBg					"100 100 100 255"
+		Econ.Button.PresetDefaultColorBg					"ahudBlack"
 		Econ.Button.PresetArmedColorBg						"100 100 100 255"
 		Econ.Button.PresetDepressedColorBg					"ahudDullWhite"
 

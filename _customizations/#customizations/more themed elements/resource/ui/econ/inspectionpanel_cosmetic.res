@@ -38,7 +38,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"ItemNameLabel"
-			"font"					"Regular20"
+			"font"					"Bold20"
 			"labelText"				"%itemname%"
 			"textAlignment"			"west"
 			"xpos"					"240"

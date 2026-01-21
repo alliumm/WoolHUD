@@ -1,0 +1,2 @@
+#base	"../../_customizations/#customizations/#enabled/more themed elements/resource/ui/matchmakingdashboardmvmmodeselect.res"
+#base	"../../_basetf2hud/resource/ui/matchmakingdashboardmvmmodeselect.res"

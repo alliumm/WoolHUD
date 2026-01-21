@@ -4,32 +4,32 @@
 {
 	"CasualCriteria"
 	{
-		"fieldName"		"CasualCriteria"
-		"xpos"			"r0"
-		"ypos"			"10"
-		"zpos"			"1002"
-		"wide"			"270"
-		"tall"			"f70"
-		"visible"		"1"
+		"fieldName"				"CasualCriteria"
+		"xpos"					"r0"
+		"ypos"					"10"
+		"zpos"					"1002"
+		"wide"					"270"
+		"tall"					"f10"
+		"visible"				"1"
 		"proportionaltoparent"	"1"
 	}
 
 	"Title"
 	{
-		"ControlName"		"Label"
-		"fieldName"		"Title"
-		"xpos"		"8"
-		"ypos"		"23"
-		"zpos"		"99"
-		"wide"		"f0"
-		"tall"		"20"
+		"ControlName"			"Label"
+		"fieldName"				"Title"
+		"xpos"					"0"
+		"ypos"					"25"
+		"zpos"					"99"
+		"wide"					"f0"
+		"tall"					"20"
 		"proportionaltoparent"	"1"
-		"labeltext"		"#TF_Matchmaking_HeaderCasual"
-		"textAlignment"	"west"
-		"font"			"Bold24"
-		"fgcolor_override"	"ahudWhite"
-
-		"mouseinputenabled"	"0"
+		"labeltext"				"#TF_Matchmaking_HeaderCasual"
+		"textAlignment"			"center"
+		"font"					"HudFontMedium"
+		"fgcolor_override"		"ahudWhite"
+		"mouseinputenabled"		"0"
+		"allcaps"				"1"
 	}
 
 	"criteria"
@@ -40,7 +40,7 @@
 		"ypos"			"40"
 		"zpos"			"100"
 		"wide"			"f0"
-		"tall"			"f73"
+		"tall"			"f63"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
@@ -66,9 +66,9 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"QueueButton"
-		"xpos"			"cs-0.5"
-		"ypos"			"rs1-8"
-		"zpos"			"100"
+		"xpos"			"cs-0.51"
+		"ypos"			"rs4-8"
+		"zpos"			"10000"
 		"wide"			"f20"
 		"tall"			"20"
 		"autoResize"	"0"
@@ -76,7 +76,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"font"			"HudFontMediumSmallBold"
+		"font"			"HudFontMediumSmall"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -86,11 +86,11 @@
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
+		"allcaps"			"1"
+		"defaultBgColor_override"	"GreenSolid"
+		"armedBgColor_override"		"CreditsGreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-
-		"armedBgColor_override"		"CreditsGreen"
-		"defaultBgColor_override"	"GreenSolid"
 	}
 }

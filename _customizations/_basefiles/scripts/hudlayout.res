@@ -59,7 +59,7 @@
 		
 		"TeamBlue"			"HUDBlueTeamSolid"
 		"TeamRed"			"HUDRedTeamSolid"
-		"IconColor"			"White"
+		"IconColor"			"255 255 255 255"
 		"LocalPlayerColor"	"Black"
 
 		"BaseBackgroundColor"	"0 0 0 214"		

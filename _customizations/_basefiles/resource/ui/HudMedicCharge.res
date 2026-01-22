@@ -138,20 +138,6 @@
 		"brighttext"		"0"
 	}
 
-	"ResistIcon"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ResistIcon"
-		"xpos"			"0"
-		"ypos"			"-25"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../HUD/defense_buff_bullet_blue"
-		"scaleImage"	"1"
-	}
-
 	"IndividualChargesLabel"
 	{
 		"ControlName"	"CExLabel"

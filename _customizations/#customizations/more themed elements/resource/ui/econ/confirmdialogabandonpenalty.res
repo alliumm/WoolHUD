@@ -2,7 +2,7 @@
 {
 	"ConfirmDialog"
 	{
-		"ControlName"		"Frame"
+		"ControlName"	"Frame"
 		"fieldName"		"ConfirmDialog"
 		"xpos"			"c-150"
 		"ypos"			"140"
@@ -39,9 +39,9 @@
 
 	"TitleLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Bold16"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#ConfirmTitle"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -53,7 +53,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "WhiteS"
 	}
 
 	"AbandonIcon"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ExplanationLabel"
-		"font"			"EconFontSmall"
+		"font"			"HudFontSmall"
 		"labelText"		"%text%"
 		"textAlignment"	"north-west"
 		"xpos"			"60"
@@ -87,7 +87,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "TanLight"
 	}
 
 	"CancelButton"

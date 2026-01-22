@@ -39,9 +39,9 @@
 
 	"TitleLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Bold16"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#ConfirmTitle"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -53,28 +53,28 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "WhiteS"
 	}
 
 	"AbandonIcon"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"AbandonIcon"
-		"xpos"		"10"
-		"ypos"		"52"
-		"wide"		"40"
-		"tall"		"40"
+		"xpos"			"10"
+		"ypos"			"52"
+		"wide"			"40"
+		"tall"			"40"
 		"image"			"pve/mvm_timeout_active_large"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"		"1"
+		"scaleImage"	"1"
 	}
 
 	"ExplanationLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ExplanationLabel"
-		"font"			"EconFontSmall"
+		"font"			"HudFontSmall"
 		"labelText"		"%text%"
 		"textAlignment"	"north-west"
 		"xpos"			"60"

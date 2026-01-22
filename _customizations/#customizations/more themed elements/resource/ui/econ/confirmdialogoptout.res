@@ -2,7 +2,7 @@
 {
 	"ConfirmDialog"
 	{
-		"ControlName"		"Frame"
+		"ControlName"	"Frame"
 		"fieldName"		"ConfirmDialog"
 		"xpos"			"c-150"
 		"ypos"			"140"
@@ -39,9 +39,9 @@
 
 	"TitleLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Bold16"
+		"font"			"HudFontMediumBold"
 		"labelText"		"#ConfirmTitle"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -59,7 +59,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ExplanationLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmall"
 		"labelText"		"%text%"
 		"textAlignment"	"center"
 		"xpos"			"40"
@@ -72,7 +72,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "TanLight"
 	}
 
 	"CancelButton"

@@ -279,6 +279,18 @@ Scheme
 	
     Borders
     {
+		Econ.Button.Border.Default
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype" "0"
+		}
+		
+		Econ.Button.Border.Armed
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype" "0"
+		}
+		
 		GreenBorderThick
 		{
 			"inset" "0 0 0 0"

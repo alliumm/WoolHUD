@@ -82,12 +82,13 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
+		"allcaps"		"1"
 		"command"		"jointeam spectate"
 		"associated_model"	"autodoor"
 		"hover"				"2.0"
 		"font"			"Light20"
-		"fgcolor"		"White"
-		"defaultFgColor_override" "White"
+		"fgcolor"		"WhiteS"
+		"defaultFgColor_override" "WhiteS"
 		"armedFgColor_override" "Select"
 	}
 	
@@ -110,11 +111,12 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"paintborder"	"0"
+		"allcaps"		"1"
 		"command"		"jointeam spectatearena"
 		"associated_model"	"spectate"	
 		"font"			"Light20"
-		"fgcolor"		"White"
-		"defaultFgColor_override" "White"
+		"fgcolor"		"WhiteS"
+		"defaultFgColor_override" "WhiteS"
 		"armedFgColor_override" "Select"
 	}
 	
@@ -403,4 +405,3 @@
 		}
 	}	
 }
-

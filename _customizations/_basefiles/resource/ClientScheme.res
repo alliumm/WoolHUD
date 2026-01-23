@@ -555,6 +555,18 @@ Scheme
 			}
 		}
 
+		"MenuArrows"
+		{
+			"1"
+			{
+				"name"			"TF2Icons"
+				"tall"			"15"
+				"weight"		"400"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+
 		"MediumIcons"
 		{
 			"1"

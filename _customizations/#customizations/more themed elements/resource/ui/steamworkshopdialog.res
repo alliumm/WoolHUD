@@ -120,7 +120,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"		"TitleLabelShadow"
-				"font"			"HudFontMediumBold"
+				"font"			"Bold22"
 				"labelText"		"#TF_SteamWorkshop_Title"
 				"textAlignment"	"center"
 				"xpos"			"1"

@@ -416,7 +416,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"StoreButton"
-		"xpos"			"c-185"
+		"xpos"			"c-186"
 		"ypos"			"290"
 		"zpos"			"20"
 		"wide"			"190"

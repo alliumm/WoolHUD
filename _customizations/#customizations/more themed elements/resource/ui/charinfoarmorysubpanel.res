@@ -366,7 +366,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"WikiButton"
-		"xpos"			"c130"
+		"xpos"			"c125"
 		"ypos"			"290"
 		"zpos"			"20"
 		"wide"			"160"

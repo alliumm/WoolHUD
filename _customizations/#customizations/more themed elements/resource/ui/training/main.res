@@ -73,7 +73,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
 			"font"			"Bold24"
-			"labelText"		"Select Training Mode"
+			"labelText"		"%title%"
 			"textAlignment"	"center"
 			"xpos"			"0"
 			"ypos"			"15"

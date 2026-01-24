@@ -107,13 +107,18 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"border_default"	"MainMenuBGBorder"
-		"border_armed"		"TrainingBGArmedBorder"
-		"border_depressed"	"TrainingBGArmedBorder"
-		"paintbackground"	"0"
+		"paintbackground"	"1"
 		
-		"defaultFgColor_override" "ahudWhite"
-		"armedFgColor_override" "ahudWhite"
-		"depressedFgColor_override" "46 43 42 255"
+		"defaultBgColor_override"	"ahudBlack"
+		"armedBgColor_override"		"ahudBlackLight"
+		"depressedBgColor_override"	"ahudBlackLight"
+			
+		"defaultFgColor_override"	"ahudWhite"
+		"armedFgColor_override" 	"ahudWhite"
+		"depressedFgColor_override" "ahudWhite"
+
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
+		"border_depressed"	"NoBoder"
 	}
 }

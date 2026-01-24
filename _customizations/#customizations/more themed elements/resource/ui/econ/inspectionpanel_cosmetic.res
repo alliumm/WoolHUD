@@ -81,7 +81,28 @@
 				"SlotLabel"
 				{
 					"fgcolor"		"ahudDullWhite"
-				}		
+				}
+				"ItemWikiPageButton"
+				{
+					"ControlName"		"CExButton"
+					"fieldName"			"ItemWikiPageButton"
+					"zpos"				"20"
+					"wide"				"150"
+					"tall"				"20"
+					"autoResize"		"0"
+					"pinCorner"			"0"
+					"visible"			"1"
+					"enabled"			"1"
+					"tabPosition"		"0"
+					"labelText"			"#Store_ItemDesc_ItemWikiPage"
+					"font"				"Regular14"
+					"textAlignment"		"center"
+					"dulltext"			"0"
+					"brighttext"		"0"
+					"command"			"viewwikipage"
+					"sound_depressed"	"UI/buttonclick.wav"
+					"sound_released"	"UI/buttonclickrelease.wav"
+				}
 			}
 		}
 	}

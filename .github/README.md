@@ -36,7 +36,6 @@ For the best possible experience, I recommend enabling:
 - cleaner buildings panels
 - more themed elements
 - payload race panel
-- rectangular killstreak notice
 
 [How to enable](https://github.com/Beventar/WoolHUD/wiki/How-to-customize)
 

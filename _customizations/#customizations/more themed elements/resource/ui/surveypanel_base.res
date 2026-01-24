@@ -152,6 +152,12 @@
 			"defaultFgColor_override" 	"TanLight"
 			"armedFgColor_override" 	"LightRed"
 			"depressedFgColor_override" "TanLight"
+
+			"SubImage"
+			{
+				"visible"		"0"
+				"enabled"		"0"
+			}
 		}
 	}
 }

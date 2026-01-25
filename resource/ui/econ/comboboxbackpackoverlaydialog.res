@@ -1,0 +1,2 @@
+#base	"../../../_customizations/#customizations/#enabled/more themed elements/resource/ui/econ/comboboxbackpackoverlaydialog.res"
+#base	"../../../_basetf2hud/resource/ui/econ/comboboxbackpackoverlaydialog.res"

@@ -336,7 +336,7 @@
 	
 	CSecondaryTargetID
 	{
-		"fieldName" 	"CSecondaryTargetID"
+		"fieldName" "CSecondaryTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-170"
@@ -358,18 +358,34 @@
 		
 		"PaintBackgroundType"	"2"
 	}
+
+	"BuildingStatusAnchor"
+	{
+		"fieldName"		"BuildingStatusAnchor"
+		"ControlName"	"EditablePanel"
+		"visible"		"0"
+		"enabled"		"1"
+		"xpos"			"-18"
+		"ypos"			"c-140"
+		"wide"			"f0"
+		"tall"			"480"
+	}
 	
 	BuildingStatus_Engineer
 	{
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"-18"
-		"ypos"		"100"
+		"xpos"		"0"
+		"ypos"		"0"
 		"wide"		"f0"
 		"tall"		"480"
 		
 		"PaintBackgroundType"	"2"
+
+		"pin_to_sibling"		"BuildingStatusAnchor"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 	}
 
 	HudMannVsMachineStatus

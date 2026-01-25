@@ -1,8 +1,8 @@
 "resource/hudlayout.res"
 {
-	BuildingStatus_Engineer
+	"BuildingStatusAnchor"
 	{
 		"xpos"		"4"
-		"ypos"		"110"
+		"ypos"		"c-130"
 	}
 }

@@ -4822,6 +4822,17 @@ Scheme
 			}
 		}
 
+		"ItemFontNameLarger"
+		{
+			"1"
+			{
+				"name"			"AvenirLTStd-Medium"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+
 		"ItemFontAttribSmallest"
 		{
 			"1"

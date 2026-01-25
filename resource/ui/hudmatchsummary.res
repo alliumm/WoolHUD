@@ -258,7 +258,9 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"border"		"TFFatLineBorderBlueBGOpaque"
-					"bgcolor_override"	"BlueSolid"
+					"bgcolor_override"	"Blue"
+					"paintbackground"	"1"
+					"PaintBackgroundType"	"0"
 
 					if_large
 					{
@@ -529,7 +531,9 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"border"		"TFFatLineBorderRedBGOpaque"
-					"bgcolor_override"	"RedSolid"
+					"bgcolor_override"	"Red"
+					"paintbackground"	"1"
+					"PaintBackgroundType"	"0"
 
 					if_large
 					{

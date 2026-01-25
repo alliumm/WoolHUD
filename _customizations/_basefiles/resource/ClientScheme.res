@@ -2923,7 +2923,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"TF2 Build"
+				"name"	"AvenirLTStd-Heavy"
 				"tall"	"12"
 				"weight"	"500"
 				"additive"	"0"

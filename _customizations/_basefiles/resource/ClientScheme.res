@@ -4805,7 +4805,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"10"
+				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -4816,7 +4816,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"10"
+				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -4840,7 +4840,7 @@ Scheme
 				"name"		"AvenirLTStd-Medium"
 				"tall"		"9"
 				"additive"	"0"
-				"antialias""1"
+				"antialias" "1"
 			}
 		}
 
@@ -4849,7 +4849,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"8"
+				"tall"		"10"
 				"antialias" "1"
 			}
 		}
@@ -4859,7 +4859,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"9"
+				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -4870,7 +4870,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"10"
+				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
 			}

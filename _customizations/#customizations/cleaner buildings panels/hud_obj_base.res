@@ -6,7 +6,7 @@
 		{
 			"ControlName"	"CIconPanel"
 			"fieldName"		"SapperIcon"
-			"xpos"			"120"
+			"xpos"			"105"
 			"ypos"			"6"
 			"zpos"			"1"
 			"wide"			"20"

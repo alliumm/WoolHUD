@@ -13,7 +13,7 @@
 		"bgcolor_override"		"ahudDarkerGrey"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"0"
-		"border"				"HoAssBorder"
+		"border"				"ahudPanelBorder"
 	}
 
 	"TitleLabel"

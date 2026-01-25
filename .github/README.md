@@ -23,18 +23,18 @@ By default the newest version is used. `#alternatives` contain elements from old
 For the best possible experience, I recommend enabling:
 
 **#alternatives**
-- control point
-- game timers
-- main menu normal names
+- menu-normal-names-gamemenu.res
 - main menu (if using with `more themed elements` then rename `chapterbackgrounds.txt`)
-- payload panel
+- game timers
+- control point
+- objectivestatusescort.res
 
 **#customizations**
-- centered metal
-- centered mvm money
-- class loadout panel options
-- cleaner buildings panels
 - more themed elements
+- options-classloadoutpanel.res
+- cleaner buildings panels
+- centered-metal-hudlayout.res
+- centered mvm money
 - payload race panel
 
 [How to enable](https://github.com/Beventar/WoolHUD/wiki/How-to-customize)

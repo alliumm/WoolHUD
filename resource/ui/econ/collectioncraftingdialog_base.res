@@ -1,0 +1,2 @@
+#base	"../../../_customizations/#customizations/#enabled/more themed elements/resource/ui/econ/collectioncraftingdialog_base.res"
+#base	"../../../_basetf2hud/resource/ui/econ/collectioncraftingdialog_base.res"

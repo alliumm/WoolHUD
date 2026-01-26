@@ -4805,7 +4805,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"12"
+				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -4816,7 +4816,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"14"
+				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -4849,7 +4849,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"10"
+				"tall"		"8"
 				"antialias" "1"
 			}
 		}
@@ -4859,7 +4859,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"10"
+				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -4870,7 +4870,7 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Medium"
-				"tall"		"12"
+				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -6001,7 +6001,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			
-			"image"					"../hud/color_panel_red_opaque"
+			"image"					"backpack_rect_color"
 			"src_corner_height"		"23"				// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional

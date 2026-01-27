@@ -1,3 +1,4 @@
+#base   "../_customizations/#customizations/#enabled/more themed elements/scripts/hudlayout.res"
 #base   "../_customizations/#customizations/#enabled/building alerts v2/hudlayout.res"
 #base   "../_customizations/#customizations/#enabled/centered mvm money/hudlayout.res"
 #base   "../_customizations/#customizations/#enabled/cleaner buildings panels/hudlayout.res"

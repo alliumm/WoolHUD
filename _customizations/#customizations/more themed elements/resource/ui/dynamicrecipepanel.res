@@ -198,7 +198,6 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"craft"
-			"allcaps"		"1"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -364,7 +363,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"cancel"
-			"allcaps"		"1"
+			
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 		}	

@@ -171,6 +171,7 @@
 		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"
+		"allcaps"		"1"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override" "ahudWhite"

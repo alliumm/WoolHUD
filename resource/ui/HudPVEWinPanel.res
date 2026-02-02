@@ -31,7 +31,7 @@
 		{	
 			"ControlName"		"CExLabel"
 			"fieldName"		"WinningTeamLabelDropshadow"
-			"font"			"Ligh19Shadow"
+			"font"			"Light19Shadow"
 			"fgcolor"		"blank"
 			"xpos"			"3"
 			"ypos"			"3"

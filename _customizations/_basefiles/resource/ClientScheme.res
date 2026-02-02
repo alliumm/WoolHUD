@@ -953,124 +953,6 @@ Scheme
 			}
 		}
 		
-		"BoldNumbers10"
-		{
-			"1"
-			{
-				"name"			"BoldNumbers"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-		
-		"MediumNumbers20Shadow"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"20"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
-			}
-		}
-
-		"MediumNumbers16Shadow"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"16"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
-			}
-		}
-
-		"MediumNumbers14Shadow"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"14"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
-			}
-		}
-
-		"MediumNumbers12Shadow"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"12"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
-			}
-		}	
-
-		"MediumNumbers10Shadow"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
-			}
-		}
-		
-		"LightNumbers20Shadow"
-		{
-			"1"
-			{
-				"name"			"LightNumbers"
-				"tall"		"29"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
-			}
-		}
-
-		"LightNumbers19"
-		{
-			"1"
-			{
-				"name"			"LightNumbers"
-				"tall"		"19"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-
-		"LightNumbers19Shadow"
-		{
-			"1"
-			{
-				"name"			"LightNumbers"
-				"tall"		"19"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
-			}
-		}
-
-		"LightNumbers18Shadow"
-		{
-			"1"
-			{
-				"name"			"LightNumbers"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"1"
-			}
-		}
-		
 		"Heavy59"
 		{
 			"1"
@@ -8161,28 +8043,13 @@ Scheme
 		{
 			"font" "resource/fonts/avenirltstd-book.otf"
 			"name" "AvenirLTStd-Book"
-		}	
-		"18" 
-		{
-			"font" "resource/fonts/mediumnumbers.otf"
-			"name" "MediumNumbers"
 		}
-		"19" 
-		{
-			"font" "resource/fonts/lightnumbers.otf"
-			"name" "LightNumbers"
-		}
-		"20" 
-		{
-			"font" "resource/fonts/boldnumbers.otf"
-			"name" "BoldNumbers"
-		}
-		"21"
+		"18"
 		{
 			"font"	"resource/fonts/icons.ttf"
 			"name"	"TF2Icons"
 		}
-		"22"
+		"19"
 		{
 			"font" 	"resource/fonts/hypnotize_icons.ttf"
 			"name" 	"hypnotize_icons"

@@ -172,7 +172,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"sublabel0"
-			"font"			"HudFontSmallBold"
+			"font"			"Regular12"
 			"labelText"		"Friends List"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -225,7 +225,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"sublabel1"
-			"font"			"HudFontSmallBold"
+			"font"			"Regular12"
 			"labelText"		"Current Server"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -282,7 +282,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"sublabel2"
-			"font"			"HudFontSmallBold"
+			"font"			"Regular12"
 			"labelText"		"Steam Profile"
 			"textAlignment"	"center"
 			"xpos"			"0"

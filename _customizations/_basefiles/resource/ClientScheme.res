@@ -544,50 +544,6 @@ Scheme
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
 		// if a font fails to load then the subsequent fonts will replace
 
-		"CustomIcons"
-		{
-			"1"
-			{
-				"name"			"TF2Icons"
-				"tall"			"18"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-
-		"MenuArrows"
-		{
-			"1"
-			{
-				"name"			"TF2Icons"
-				"tall"			"15"
-				"weight"		"400"
-				"additive"		"0"
-				"antialias" 	"1"
-			}
-		}
-
-		"MediumIcons"
-		{
-			"1"
-			{
-				"name"			"TF2Icons"
-				"tall"			"20"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-
-		"Symbols64"
-		{
-			"1"
-			{
-				"name"			"hypnotize_icons"
-				"tall"			"64"
-				"antialias"		"1"
-			}
-		}
-
 		"QuestMap_Small_Blur"
 		{
 			"1"
@@ -8043,16 +7999,6 @@ Scheme
 		{
 			"font" "resource/fonts/avenirltstd-book.otf"
 			"name" "AvenirLTStd-Book"
-		}
-		"18"
-		{
-			"font"	"resource/fonts/icons.ttf"
-			"name"	"TF2Icons"
-		}
-		"19"
-		{
-			"font" 	"resource/fonts/hypnotize_icons.ttf"
-			"name" 	"hypnotize_icons"
 		}
 	}
 }

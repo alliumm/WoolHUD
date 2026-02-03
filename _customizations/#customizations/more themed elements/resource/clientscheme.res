@@ -533,4 +533,65 @@ Scheme
 			"draw_corner_height" 	"4"
 		}
     }
+
+	Fonts
+	{
+		"CustomIcons"
+		{
+			"1"
+			{
+				"name"			"TF2Icons"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+
+		"MenuArrows"
+		{
+			"1"
+			{
+				"name"			"TF2Icons"
+				"tall"			"15"
+				"weight"		"400"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
+
+		"MediumIcons"
+		{
+			"1"
+			{
+				"name"			"TF2Icons"
+				"tall"			"20"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols64"
+		{
+			"1"
+			{
+				"name"			"hypnotize_icons"
+				"tall"			"64"
+				"antialias"		"1"
+			}
+		}
+	}
+
+	CustomFontFiles
+	{
+		"18"
+		{
+			"font"	"_customizations/#customizations/#enabled/more themed elements/resource/fonts/icons.ttf"
+			"name"	"TF2Icons"
+		}
+		"19"
+		{
+			"font" 	"_customizations/#customizations/#enabled/more themed elements/resource/fonts/hypnotize_icons.ttf"
+			"name" 	"hypnotize_icons"
+		}
+	}
 }

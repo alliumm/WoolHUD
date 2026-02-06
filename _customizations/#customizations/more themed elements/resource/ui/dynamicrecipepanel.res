@@ -230,7 +230,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurInputPageLabel"
-			"font"			"HudFontMediumSmall"
+			"font"			"HudFontSmall"
 			"labelText"		"%inputpage%"
 			"textAlignment"	"center"
 			"xpos"			"210"
@@ -395,7 +395,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CurPageLabel"
-			"font"			"HudFontMediumSmall"
+			"font"			"HudFontSmall"
 			"labelText"		"%backpackpage%"
 			"textAlignment"	"center"
 			"xpos"			"26"

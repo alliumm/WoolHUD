@@ -933,7 +933,7 @@
 			"depressedBgColor_override"	"42 42 42 255"
 			"border_default"			"NoBorder"
 			"border_armed"				"NoBorder"
-			"image_drawcolor"			"TanLight"
+			"image_drawcolor"			"232 232 232 255"
 			"image_armedcolor"			"255 255 255 255"
 
 			"SubImage"

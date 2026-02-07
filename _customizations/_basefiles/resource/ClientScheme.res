@@ -3506,15 +3506,24 @@ Scheme
 		}
 
 		"HudFontMediumSecondary"
-		{
-			"1"
-			{
-				"name"		"AvenirLTStd-Medium"
-				"tall"		"12"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
+        {
+            "1"
+            {
+                "name"      "AvenirLTStd-Medium"
+                "tall"      "22"
+                "yres"      "1 1199"
+                "additive"  "0"
+                "antialias" "1"
+            }
+
+            "2"
+            {
+                "name"      "AvenirLTStd-Medium"
+                "tall"      "10"
+                "additive"  "0"
+                "antialias" "1"
+            }
+        }
 
 		"HudFontMediumBold"
 		{

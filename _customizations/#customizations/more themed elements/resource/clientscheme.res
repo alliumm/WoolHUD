@@ -279,6 +279,39 @@ Scheme
 	
     Borders
     {
+		MenuBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Yellow"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Yellow"
+					"offset" "0 0"
+				}
+				"3"
+				{
+					"color" "Yellow"
+					"offset" "0 0"
+				}
+				"4"
+				{
+					"color" "Yellow"
+					"offset" "0 0"
+				}
+				"5"
+				{
+					"color" "Yellow"
+					"offset" "0 0"
+				}
+			}
+		}
+		
 		Econ.Button.Border.Default
 		{
 			"inset" "0 0 0 0"

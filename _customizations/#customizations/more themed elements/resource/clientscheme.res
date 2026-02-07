@@ -420,39 +420,6 @@ Scheme
 			"color"	"ahudBlack"
 		}
 
-		ahudMenuBorder
-		{
-			"inset" "0 0 0 0"
-			Left
-			{
-				"1"
-				{
-					"color" "Select"
-					"offset" "0 0"
-				}
-				"2"
-				{
-					"color" "Select"
-					"offset" "0 0"
-				}
-				"3"
-				{
-					"color" "Select"
-					"offset" "0 0"
-				}
-				"4"
-				{
-					"color" "Select"
-					"offset" "0 0"
-				}
-				"5"
-				{
-					"color" "Select"
-					"offset" "0 0"
-				}
-			}
-		}
-
 		ahudPanelBorder
 		{
 			"inset" "0 0 0 0"

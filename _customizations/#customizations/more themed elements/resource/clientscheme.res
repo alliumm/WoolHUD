@@ -28,10 +28,10 @@ Scheme
 		Econ.Button.PresetArmedColorFg			"Select"
 		Econ.Button.PresetDepressedColorFg		"Select"
 		Econ.Button.PresetDefaultColorBg		"ahudBlack"
-		Econ.Button.PresetArmedColorBg			"50 50 50 255"
+		Econ.Button.PresetArmedColorBg			"40 40 40 255"
 		Econ.Button.PresetDepressedColorBg		"ahudBlack"
 		Econ.Button.Border.Default				"ahudBlack"
-		Econ.Button.Border.Armed				"50 50 50 255"
+		Econ.Button.Border.Armed				"40 40 40 255"
 
 		Border.Bright							"Blank"			// the lit side of a control
 		Border.Dark								"Blank"			// the dark/unlit side of a control

@@ -6070,8 +6070,8 @@ Scheme
 			"image"					"backpack_rect_color"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"11"	
+			"draw_corner_width"		"3"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"3"	
 		}
 		
 		BackpackItemGrayedOut_Selected
@@ -6083,8 +6083,8 @@ Scheme
 			"image"					"backpack_rect_selected"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"11"	
+			"draw_corner_width"		"3"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"3"	
 		}
 		
 		// Standard ------------------------------------------------------------------------------------------------

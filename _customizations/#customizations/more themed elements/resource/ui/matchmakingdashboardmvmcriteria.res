@@ -171,7 +171,7 @@
 		"zpos"			"10000"
 		"wide"			"115"
 		"tall"			"20"
-		"font"			"HudFontSmall"
+		"font"			"Regular12"
 		"labelText"		"#TF_Matchmaking_JoinInProgress"
 		"proportionaltoparent"	"1"
 	}

@@ -13,4 +13,9 @@
 		"wide"				"0"
 		"tall"				"0"
 	}
+
+	HudDeathNotice
+	{
+		"IconColor"			"255 255 255 255"
+	}
 }

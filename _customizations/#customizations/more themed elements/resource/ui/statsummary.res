@@ -37,8 +37,7 @@
 		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../console/background_upward_widescreen"
-		"scaleImage"		"1"
+		"bgcolor_override"	"ahudDarkGrey"
 	}
 
 	"MapInfo"
@@ -63,8 +62,7 @@
 			"tall"			"480"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"../console/background_upward_widescreen"
-			"scaleImage"		"1"
+			"bgcolor_override"	"ahudDarkGrey"
 		}
 
 		"InfoBG"

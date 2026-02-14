@@ -1,6 +1,5 @@
 "resource/ui/targetid.res"
 {
-	
 	"TargetIDBG"
 	{
 		"ControlName"		"CTFImagePanel"

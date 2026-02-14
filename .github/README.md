@@ -24,7 +24,7 @@ For the best possible experience, I recommend enabling:
 
 **#alternatives**
 - menu-normal-names-gamemenu.res
-- main menu (if using with `more themed elements` then rename `chapterbackgrounds.txt`)
+- main menu
 - game timers
 - control point
 - objectivestatusescort.res

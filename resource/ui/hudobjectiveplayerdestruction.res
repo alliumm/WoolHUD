@@ -1,3 +1,3 @@
 #base	"../../_customizations/#customizations/#enabled/smaller default pd, rd/hudobjectiveplayerdestruction.res"
-#base	"../../_customizations/#alternatives/#enabled/game timers/resource/ui/hudobjectiveplayerdestruction.res"
+#base	"../../_customizations/#alternatives/#enabled/game timers/hudobjectiveplayerdestruction.res"
 #base	"../../_basetf2hud/resource/ui/hudobjectiveplayerdestruction.res"

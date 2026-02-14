@@ -7,7 +7,7 @@
 #base	"../_customizations/#alternatives/#enabled/targetid/hudlayout.res"
 #base   "../_customizations/#alternatives/#enabled/transparent viewmodels/hudlayout.res"
 #base   "../_customizations/#customizations/#enabled/centered-metal-hudlayout.res"
-#base   "../_customizations/#alternatives/#enabled/game timers/scripts/hudlayout.res"
+#base   "../_customizations/#alternatives/#enabled/game timers/hudlayout.res"
 #base   "../_customizations/#alternatives/#enabled/lower-spectator-targetid-hudlayout.res"
 #base   "../_customizations/#alternatives/#enabled/targetid-v2/hudlayout.res"
 #base   "../_basetf2hud/scripts/hudlayout.res"

@@ -122,7 +122,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%targetdata%"
-		"fgcolor"		"White"
+		"fgcolor"		"White"			//255 255 0 255
 		"textAlignment"		"north-west"
 		"dulltext"		"0"
 		"brighttext"		"0"

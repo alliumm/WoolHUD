@@ -37,7 +37,7 @@ For the best possible experience, I recommend enabling:
 - centered mvm money
 - payload race panel
 
-[How to enable](https://github.com/Beventar/WoolHUD/wiki/How-to-customize)
+[How to enable](https://github.com/Beventar/WoolHUD/wiki/Customizations)
 
 # Thanks
 - Woolen: Creating his HUD, Permission to publish

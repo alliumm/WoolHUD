@@ -65,7 +65,7 @@
 				"tall"			"15"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontSmall"
+				"font"			"Regular14"
 				"fgcolor_override"	"ahudWhite"
 				"textAlignment"	"center"
 				"labelText"		"%match_type%"
@@ -74,9 +74,9 @@
 
 				"fonts"
 				{
-					"0"		"HudFontSmallest"
-					"1"		"StorePromotionsTitle"
-					"2"		"FontStorePrice"
+					"0"		"Regular11"
+					"1"		"Regular10"
+					"2"		"Regular9"
 				}
 			}
 
@@ -206,7 +206,7 @@
 				"tall"			"20"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontSmall"
+				"font"			"Regular12"
 				"fgcolor_override"	"ahudWhite"
 				"textAlignment"	"east"
 				"labelText"		"#TF_Matchmaking_RollingQueue_MatchReadyJoining"

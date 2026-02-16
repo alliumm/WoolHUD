@@ -21,11 +21,11 @@ By default the newest version is used. `#alternatives` contain elements from old
 
 # Recommended customizations
 
-For the best possible experience, I recommend enabling:
+For the best possible experience, I highly recommend enabling:
 
 **#alternatives**
-- menu-normal-names-gamemenu.res
 - main menu
+- menu-normal-names-gamemenu.res
 - game timers
 - control point
 - objectivestatusescort.res
@@ -41,19 +41,15 @@ For the best possible experience, I recommend enabling:
 [How to enable](https://github.com/Beventar/WoolHUD/wiki/Customizations)
 
 # Thanks
-- Woolen: Creating his HUD, Permission to publish
+- **Woolen:** Creating his HUD, Permission to publish
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0033?logo=youtube&logoColor=white)](https://youtube.com/@awoolensleevelet)
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/awoolensleevelet)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/woolen)
 
 # Credits
-- folks from [HUDS.tf Discord server](https://discord.com/invite/Hz3Q4Z8): General help
-- [JarateKing](https://github.com/JarateKing): TF2 HUD files reference
-- [Revan](https://github.com/cooolbros): TF2 HUD files reference, VS Code VDF plugin
-- [Hypnotize](https://github.com/Hypnootize): Default HUD files, Updating Yahud Old
-- [Whisker](https://github.com/rbjaxter): Elements from budhud
-- [CriticalFlaw](https://github.com/CriticalFlaw): Elements from FlawHUD
-- [Antwan](https://github.com/AsianAntwan): Class loadout panel from AntsHUD
-- [Jakadak](https://github.com/jakadak): Elements from ahud-cc
-- [Griever](https://steamcommunity.com/id/griiver/): Chat from ToonHUD
+- **Used Elements:** Whisker, CriticalFlaw & raysfire, Antwan, Jakadak & n0kk, Griever
+- **Crosshairs & Icons:** Hypnotize
+- **Tools:** Revan's VDF Plugin
+- **References:** JarateKing, Revan, Hypnotize
+- **HUD Help:** [HUDS.TF Discord](https://discord.com/invite/Hz3Q4Z8)

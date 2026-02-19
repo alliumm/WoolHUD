@@ -34,7 +34,7 @@ For the best possible experience, I highly recommend enabling:
 - more themed elements
 - options-classloadoutpanel.res
 - cleaner buildings panels
-- centered-metal-hudlayout.res
+- metal-xhair-hudlayout.res
 - centered mvm money
 - payload race panel
 

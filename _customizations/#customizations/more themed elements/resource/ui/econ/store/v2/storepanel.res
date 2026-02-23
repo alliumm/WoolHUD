@@ -139,6 +139,7 @@
 			"paintbackground"	"0"
 			"activeborder_override"	"NoBorder"
 			"normalborder_override" "NoBorder"
+			"allcaps"				"1"
 		}
 	}
 

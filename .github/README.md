@@ -2,7 +2,7 @@
 
 ![Banner](WoolHUD-banner.webp)
 
-An accurate and up-to-date replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
+A highly accurate and up-to-date replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
 
 [![Download](https://img.shields.io/badge/-Download-1B2838?logo=github&logoColor=white)](https://github.com/Beventar/WoolHUD/archive/refs/heads/main.zip)
 [![Screenshots](https://img.shields.io/badge/-Screenshots-blue?logo=imgur&logoColor=white)](https://github.com/Beventar/WoolHUD/wiki/Screenshots)

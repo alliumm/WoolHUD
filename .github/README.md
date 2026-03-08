@@ -46,8 +46,4 @@ For the best possible experience, I highly recommend enabling:
 - **Tools:** Revan's VDF Plugin
 - **References:** JarateKing, Revan, Hypnotize
 - **HUD Help:** [HUDS.TF Discord](https://discord.com/invite/Hz3Q4Z8)
-- **Woolen:** Creating his HUD, Permission to publish
-
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0033?logo=youtube&logoColor=white)](https://youtube.com/@awoolensleevelet)
-[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/awoolensleevelet)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/woolen)
+- **[Woolen](https://youtube.com/@awoolensleevelet):** Creating his HUD, Giving permission to publish

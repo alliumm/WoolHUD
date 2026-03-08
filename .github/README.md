@@ -5,7 +5,7 @@
 A highly accurate and complete replica of Woolen's TF2 HUD - a minimal, gameplay-focused HUD, with added customizations.
 
 [![Download](https://img.shields.io/badge/-Download-1B2838?logo=github&logoColor=white)](https://github.com/Beventar/WoolHUD/archive/refs/heads/main.zip)
-[![Screenshots](https://img.shields.io/badge/-Screenshots-blue?logo=imgur&logoColor=white)](https://github.com/Beventar/WoolHUD/wiki/Screenshots)
+[![Screenshots](https://img.shields.io/badge/-Screenshots-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMS41IiB5PSIyLjUiIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMCIgcng9IjIiLz48Y2lyY2xlIGN4PSI1IiBjeT0iNiIgcj0iMSIvPjxwYXRoIGQ9Ik0yLjUgMTBsMy0zIDIgMiAzLTMgMyA0Ii8+PC9zdmc+&logoColor=white)](https://github.com/Beventar/WoolHUD/wiki/Screenshots)
 [![Wiki](https://img.shields.io/badge/-Wiki-512BD4?logo=readme&logoColor=white)](https://github.com/Beventar/WoolHUD/wiki)
 [![GameBanana](https://img.shields.io/badge/-GameBanana-F1E133)](https://gamebanana.com/mods/653806)
 [![comfig huds](https://img.shields.io/badge/-comfig%20huds-009688)](https://comfig.app/huds/page/woolhud)

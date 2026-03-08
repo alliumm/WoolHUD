@@ -9,7 +9,7 @@ A highly accurate and complete replica of Woolen's TF2 HUD - a minimal, gameplay
 [![Wiki](https://img.shields.io/badge/-Wiki-512BD4?logo=readme&logoColor=white)](https://github.com/Beventar/WoolHUD/wiki)
 [![GameBanana](https://img.shields.io/badge/-GameBanana-F1E133?logo=gamebanana&logoColor=black)](https://gamebanana.com/mods/653806)
 [![comfig huds](https://img.shields.io/badge/-comfig%20huds-009688?logo=mastercomfig&logoColor=white)](https://comfig.app/huds/page/woolhud)
-[![TF2 HUDS](https://img.shields.io/badge/-tf2huds.dev-FE5500)](https://tf2huds.dev/hud/WoolHUD)
+[![TF2 HUDS](https://img.shields.io/badge/-TF2%20HUDS-FE5500)](https://tf2huds.dev/hud/WoolHUD)
 
 </div>
 

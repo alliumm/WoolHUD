@@ -1,33 +1,5 @@
 "resource/ui/mainmenuoverride.res"
 {
-	"CycleRankTypeButton"
-	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"CycleRankTypeButton"
-		"xpos"			"100"
-		"ypos"			"45"
-		"zpos"			"999999"
-		"wide"			"30"
-		"tall"			"30"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"•"
-		"font"			"Regular12"
-		"textAlignment"	"center"
-		"command"		"open_rank_type_menu"
-		"default"		"1"
-		"actionsignallevel" 	"1"
-		"proportionaltoparent"	"1"
-
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-
-		"defaultFgColor_override" "255 255 255 255"
-		"armedFgColor_override"   "Select"
-		
-		"paintbackground"	"0"
-	}
-	
 	"TooltipPanel"
 	{
 		"ControlName"	"EditablePanel"

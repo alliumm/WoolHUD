@@ -359,6 +359,30 @@
 
 		"show_progress"	"0"
 	}
+
+	"CycleRankTypeButton"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"CycleRankTypeButton"
+		"xpos"			"130"
+		"ypos"			"103"
+		"zpos"			"10"
+		"wide"			"60"
+		"tall"			"15"
+		"visible"		"1"
+		"enabled"		"1"
+		"command"		"open_rank_type_menu"
+		"default"		"1"
+		"actionsignallevel" 	"1"
+		"proportionaltoparent"	"1"
+
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"paintbackground"			"0"
+		"paintborder"				"0"
+		"alpha"						"0"
+	}
 	
 	"RankPanel"
 	{

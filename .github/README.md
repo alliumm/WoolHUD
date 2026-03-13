@@ -23,14 +23,14 @@ By default the newest version is used. `#alternatives` contain elements from old
 
 For the best possible experience, I highly recommend enabling:
 
-**#alternatives**
+### #alternatives
 - main menu
 - menu-normal-names-gamemenu.res
 - game timers
 - control point
 - objectivestatusescort.res
 
-**#customizations**
+### #customizations
 - more themed elements
 - options-classloadoutpanel.res
 - cleaner buildings panels

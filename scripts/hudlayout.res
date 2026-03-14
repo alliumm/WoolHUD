@@ -10,5 +10,4 @@
 #base   "../_customizations/#alternatives/#enabled/game timers/hudlayout.res"
 #base   "../_customizations/#alternatives/#enabled/lower-spectator-targetid-hudlayout.res"
 #base   "../_customizations/#alternatives/#enabled/targetid-oldest/hudlayout.res"
-#base   "../_basetf2hud/scripts/hudlayout.res"
 #base	"../_customizations/_basefiles/scripts/hudlayout.res"

@@ -112,6 +112,7 @@
 			"font"					"Bold44"
 			"textAlignment"			"center"
 			"textinsety"			"-2"
+			"textinsetx"			"210"
 			"dulltext"				"0"
 			"brighttext"			"0"
 			"Command"				"mannup"
@@ -119,6 +120,7 @@
 			"proportionaltoparent"	"1"
 			"paintbackground"		"1"
 			"allcaps"				"1"
+			"wrap"					"1"
 			
 			"border_default"		"NoBorder"
 			"border_armed"			"GreenBorderThick"
@@ -236,6 +238,7 @@
 			"font"					"Bold44"
 			"textAlignment"			"center"
 			"textinsety"			"-2"
+			"textinsetx"			"70"
 			"dulltext"				"0"
 			"brighttext"			"0"
 			"Command"				"bootcamp"
@@ -243,6 +246,7 @@
 			"proportionaltoparent"	"1"
 			"paintbackground"		"1"
 			"allcaps"				"1"
+			"wrap"					"1"
 			
 			"border_default"		"NoBorder"
 			"border_armed"			"GreenBorderThick"

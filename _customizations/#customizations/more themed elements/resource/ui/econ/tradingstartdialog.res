@@ -160,6 +160,7 @@
 			"Command"		"friends"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			"armedfgcolor_override"		"ahudDullWhite"
 			
 			"paintbackground"	"0"
 			
@@ -217,6 +218,7 @@
 			"Command"		"server"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			"armedfgcolor_override"		"ahudDullWhite"
 			
 			"paintbackground"	"0"
 		}
@@ -270,6 +272,7 @@
 			"Command"		"profile"
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
+			"armedfgcolor_override"		"ahudDullWhite"
 			
 			"paintbackground"		"0"
 			

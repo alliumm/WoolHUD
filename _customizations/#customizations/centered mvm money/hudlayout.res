@@ -3,6 +3,6 @@
 	"CurrencyStatusPanel"
 	{
 		"xpos"				"c-178"
-		"ypos"				"r140"
+		"ypos"				"r118"
 	}
 }

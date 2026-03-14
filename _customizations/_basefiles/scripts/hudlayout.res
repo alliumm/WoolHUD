@@ -1195,30 +1195,30 @@
 		"tall"					"240"
 	}
 	
-	HudArenaPlayerCount 
+	HudArenaPlayerCount
 	{
-		"fieldName"				"HudArenaPlayerCount"		
+		"fieldName"				"HudArenaPlayerCount"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-160"
+		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
-		"tall"					"50"
+		"tall"					"100"
 	}	
 	
 	"HudAchievementTracker"
-        {
-                "ControlName"   "EditablePanel"
-                "fieldName"             "HudAchievementTracker"
-                "xpos"                  "0"
-                "NormalY"               "0"
-                "EngineerY"             "0"
-                "wide"                  "f0"
-                "tall"                  "480"
-                "visible"               "1"
-                "enabled"               "1"    
-                "zpos"                  "1"
-        }
+    {
+        "ControlName"   		"EditablePanel"
+        "fieldName"             "HudAchievementTracker"
+        "xpos"                  "0"
+        "NormalY"               "0"
+        "EngineerY"             "0"
+        "wide"                  "f0"
+        "tall"                  "480"
+        "visible"               "1"
+        "enabled"               "1"    
+        "zpos"                  "1"
+    }
 
 	HudTrainingInfoMsg
 	{

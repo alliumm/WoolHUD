@@ -13,11 +13,22 @@ A highly accurate and complete replica of Woolen's TF2 HUD - a minimal, gameplay
 
 </div>
 
-# Info
+# Overview
 
-My goal is to try to make the best replica with as few bugs as possible. Some things are not faithful to the original HUD because they are either bugged or ugly.
+This HUD aims to be the best recreation of Woolen's HUD while fixing various issues.
 
-By default the newest version is used. `#alternatives` contain elements from older versions. `#customizations` are not faithful to Woolen's original HUD.
+Some things may differ slightly from the original if they were bugged, inconsistent or visually unclear.
+
+The HUD includes optional customizations:
+
+- **`#alternatives`** - elements from older versions of Woolen's HUD
+- **`#customizations`** - improvements not present in the original HUD
+
+By default, the newest version of the HUD is used.
+
+# Installation
+
+[How to install](https://github.com/Beventar/WoolHUD/wiki/Installation)
 
 # Recommended customizations
 
